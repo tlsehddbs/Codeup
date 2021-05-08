@@ -1,0 +1,6 @@
+c=input()
+print(c[0])
+print(c[1])
+print(c[2])
+print(c[3])
+print(c[4])
