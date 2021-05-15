@@ -4,6 +4,7 @@ int main()
 {
 	int a;
 	std::cin >> a;
+	
 	for (int i = 1; i <= a; i++)
 	{
 		if (i % 3 != 0)

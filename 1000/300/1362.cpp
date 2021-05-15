@@ -3,6 +3,7 @@
 int main()
 {
     int n, a = 0;
+    
     std::cin >> n;
 
     for(int i = 1; i <= n; i++)

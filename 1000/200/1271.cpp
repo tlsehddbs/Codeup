@@ -2,7 +2,7 @@
 
 int main()
 {
-    int n= 0;
+    int n = 0;
     int max = -1000001;
     std::cin >> n;
     int a[n] = {};

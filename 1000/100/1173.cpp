@@ -25,7 +25,7 @@ int main()
             h = 23;
         }
     }
-
     std::cout << h << " " << m;
+
     return 0;
 }

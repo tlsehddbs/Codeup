@@ -5,6 +5,7 @@ int main()
 {
     int n = 0, count = 1;
     cin >> n;
+    
     int a[n][n] = {};
 
     for(int i = 1; i <= n; i++)

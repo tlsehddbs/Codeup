@@ -9,6 +9,6 @@ long long int f(long long int n, long long int m)
 
 int main()
 {
-  scanf("%d%d", &n, &m);
-  printf("%lld\n", f(n, m));
+    scanf("%d%d", &n, &m);
+    printf("%lld\n", f(n, m));
 }

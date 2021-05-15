@@ -11,7 +11,9 @@ int myabs(int a)
 int main()
 {
     int a;
+
     scanf("%d", &a);
     printf("%d", myabs(a));
+    
     return 0;
 }

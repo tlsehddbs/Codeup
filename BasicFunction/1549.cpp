@@ -12,7 +12,8 @@ long long int abs(long long int n)
 
 int main()
 {
-  scanf("%lld", &n);
-  printf("%lld\n", abs(n));
-  return 0;
+    scanf("%lld", &n);
+    printf("%lld\n", abs(n));
+    
+    return 0;
 }

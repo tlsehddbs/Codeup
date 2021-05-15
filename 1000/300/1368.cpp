@@ -4,6 +4,7 @@ int main()
 {
     int h, k;
     char d;
+    
     std::cin >> h >> k >> d;
 
     for(int i = 0; i < h; i++)

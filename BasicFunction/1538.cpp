@@ -9,9 +9,11 @@ void f(int n)
     else
         printf("odd");
 }
+
 int main()
 {
   scanf("%d", &n);
   f(n);
+  
   return 0;
 }

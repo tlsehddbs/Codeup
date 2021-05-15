@@ -4,6 +4,7 @@ int main()
 {
     int n, sum = 0, i;
     std::cin >> n;
+
     for(i = 1; ; i++)
     {
         sum += i;
@@ -11,5 +12,6 @@ int main()
             break;
     }
     std::cout << sum;
+    
     return 0;
 }

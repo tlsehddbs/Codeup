@@ -4,6 +4,7 @@ int main()
 {
     int a, b = 0;
     std::cin >> a >> b;
+
     if(a < b)
         for (int i = a; i <= b; i++)
             std::cout << i << " ";
@@ -12,5 +13,6 @@ int main()
             std::cout << i << " ";
     else
         std::cout << a;
+        
     return 0;
 }

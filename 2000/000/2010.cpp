@@ -14,8 +14,10 @@ int main()
             break;
         }
     }
+
     a = (pow(a, n) - b) >= (b - pow(a - 1, n)) ? a - 1 : a;
     
     std::cout << a;
+    
     return 0;
 }

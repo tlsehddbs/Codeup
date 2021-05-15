@@ -14,5 +14,6 @@ int main()
             sum += s[i];
         
     std::cout << sum;
+    
     return 0;
 }

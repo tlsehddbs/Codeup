@@ -1,12 +1,10 @@
 #include <iostream>
-
+using std::cin;
+using std::cout;
+    
 int main()
 {
-    using std::cin;
-    using std::cout;
-    
     int input = 0;
-    
     cin >> input;
     
     if (input % 7 != 0)

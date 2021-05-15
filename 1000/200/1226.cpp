@@ -1,11 +1,13 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
-	using namespace std;
 	int num1[7] = {};
 	int num2[6] = {};
+
 	int count = 0, bouns = 0;
+
 	for (int i = 0; i < 7; i++)
 		cin >> num1[i];
 	for (int i = 0; i < 6; i++)
@@ -35,5 +37,6 @@ int main()
 		cout << 5;
 	else
 		cout << 0;
+		
 	return 0;
 }

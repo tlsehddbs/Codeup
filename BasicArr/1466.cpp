@@ -4,11 +4,13 @@ int main()
 {
     int n, m, count;
     std::cin >> n >> m;
+
     int a[n][m] = {};
 
     for(int i = 0; i < n; i++)
     {
         count = (n * m) - i;
+        
         for(int j = 0; j < m; j++)
         {
             a[i][j] = count;

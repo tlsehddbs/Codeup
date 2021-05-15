@@ -9,5 +9,6 @@ int main()
         std::cout << 13 - age << " " << 3;
     else
         std::cout << 100 - (age - 13) << " " << 1;
+        
     return 0;
 }

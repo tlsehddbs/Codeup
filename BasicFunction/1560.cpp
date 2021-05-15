@@ -12,6 +12,6 @@ long long int f(long long int n, long long int m)
 
 int main()
 {
-  scanf("%lld%lld", &n, &m);
-  printf("%lld\n", f(n, m));
+    scanf("%lld%lld", &n, &m);
+    printf("%lld\n", f(n, m));
 }

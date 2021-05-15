@@ -9,6 +9,6 @@ int max(int n, int m)
 
 int main()
 {
-  scanf("%d%d", &n, &m);
-  printf("%d\n", max(n, m));
+    scanf("%d%d", &n, &m);
+    printf("%d\n", max(n, m));
 }

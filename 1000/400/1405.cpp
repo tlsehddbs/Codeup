@@ -13,10 +13,12 @@ int main()
     for(int i = 0; i < n; i++)
     {
         temp = i;
+
         for(int j = 0; j < n; j++)
         {
             std::cout << a[temp] << " ";
             temp++;
+            
             if(temp == n)
                 temp = 0;
         }

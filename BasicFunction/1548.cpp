@@ -18,7 +18,8 @@ int grade(int n)
 
 int main()
 {
-  scanf("%d", &n);
-  printf("%c", grade(n));
-  return 0;
+    scanf("%d", &n);
+    printf("%c", grade(n));
+    
+    return 0;
 }

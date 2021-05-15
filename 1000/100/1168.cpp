@@ -10,6 +10,8 @@ int main()
         age = 2012 - (a + 1900) + 1;
     else if(b == 3 || b == 4)
         age = 2012 - (a + 2000) + 1;
+
     std::cout << age;
+    
     return 0;
 }

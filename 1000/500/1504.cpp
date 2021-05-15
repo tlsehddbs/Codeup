@@ -4,6 +4,7 @@ int main()
 {
     int n, count, vertical_count, horizon_count, i = 0, j = 0;
     std::cin >> n;
+
     int a[101][101] = {};
 
     for (i = 0; i < n; i++)
@@ -36,8 +37,8 @@ int main()
     {
         for (j = 0; j < n; j++)
             std::cout << a[i][j] << " ";
+
         std::cout << "\n";
     }
-
     return 0;
 }

@@ -3,6 +3,7 @@
 int main()
 {
 	char c = 'a';
+	
 	while (c != 'q')
 	{
 		std::cin >> c;

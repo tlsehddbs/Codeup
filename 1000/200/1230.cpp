@@ -8,7 +8,6 @@ int main()
     for (int i = 0; i < 3; i++)
         std::cin >> height[i];
         
-    
     for (int i = 0; i < 3; i++)
     {
         if(height[i] <= H)
@@ -17,6 +16,7 @@ int main()
             break;
         }
     }
+    
     if(height[0] > H && height[1] > H && height[2] > H)
             std::cout << "PASS";
     

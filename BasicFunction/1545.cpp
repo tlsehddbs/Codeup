@@ -9,8 +9,12 @@ bool zero(int n)
 
 int main()
 {
-  scanf("%d", &n);
-  if(zero(n)) printf("zero");
-  else printf("non zero");
-  return 0;
+    scanf("%d", &n);
+
+    if(zero(n)) 
+        printf("zero");
+    else 
+        printf("non zero");
+
+    return 0;
 }

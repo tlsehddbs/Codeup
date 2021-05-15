@@ -1,9 +1,7 @@
 #include <iostream>
-
+using namespace std;
 int main()
 {
-    using namespace std;
-    
     float a, b, c = 0;
     cin >> a >> b >> c;
     

@@ -4,6 +4,7 @@ int main()
 {
     int n, m, count = 1;
     int a[100][100] = {};
+
     std::cin >> n >> m;
 
     for(int i = (m - 1); i >= 0; i--)
@@ -36,6 +37,5 @@ int main()
                 std::cout << a[i][j] << " ";
             std::cout << "\n";
         }
-
     return 0;
 }

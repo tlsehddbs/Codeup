@@ -5,8 +5,9 @@ int main()
     int w, h, n, l, d, x, y;
     int arr[101][101] = {};
 
-    // ìž…ë ¥
+    // ÀÔ·Â
     std::cin >> h >> w >> n;
+    
     for(int i = 1; i <= n; i++)
     {
         std::cin >> l >> d >> y >> x;
@@ -14,16 +15,18 @@ int main()
         if(d == 0)
             for(int j = 0; j < l; j++)
                 arr[x+j][y] = 1;
+
         if(d == 1)
             for(int j = 0; j < l; j++)
                 arr[x][y+j] = 1;
     }
 
-    // ì¶œë ¥
+    // Ãâ·Â
     for(int i = 1; i <= h; i++)
     {
         for(int j = 1; j <= w; j++)
             std::cout << arr[j][i] << " ";
+
         std::cout << "\n";
     }
     return 0;

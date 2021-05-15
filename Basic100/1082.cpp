@@ -1,10 +1,11 @@
 #include <iostream>
+using namespace std;
 
 int main()
-{
-	using namespace std;
+{	
 	int a;
 	cin >> hex >> a;
+	
 	for (int i = 1; i < 16; i++)
 	{
 		cout.setf(ios::uppercase);

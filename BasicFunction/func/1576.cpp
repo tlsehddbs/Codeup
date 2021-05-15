@@ -4,6 +4,7 @@ void f()
 {
 	printf("Hello?");
 }
+
 main()
 {
     f();

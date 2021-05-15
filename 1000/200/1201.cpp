@@ -4,11 +4,13 @@ int main()
 {
     int n = 0;
     std::cin >> n;
+
     if(n > 0)
-        std::cout << "ì–‘ìˆ˜";
+        std::cout << "¾ç¼ö";
     else if (n < 0)
-        std::cout << "ìŒìˆ˜";
+        std::cout << "À½¼ö";
     else 
         std::cout << 0;
+        
     return 0;
 }

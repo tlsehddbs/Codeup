@@ -9,5 +9,6 @@ int main()
         res = res + i;
         
     std::cout << res;
+    
     return 0;
 }

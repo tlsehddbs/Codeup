@@ -4,6 +4,7 @@ int main()
 {
     int a, b, c = 0;
     std::cin >> a >> b >> c;
+
     if (a > b && a > c)
     {
         if (a < b + c)
@@ -27,5 +28,6 @@ int main()
     }
     else
         std::cout << "yes";
+        
     return 0;
 }

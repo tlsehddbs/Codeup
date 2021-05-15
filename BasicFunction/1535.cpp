@@ -5,11 +5,13 @@ int n, d[110];
 int f()
 {
     int i, max = -1;
+
     for(i = 0; i < n; i++)
     {
         if(d[i] > max)
             max = d[i];
     }
+
     for(int i = 0; i < n; i++)
     {
         if(d[i] == max)
@@ -22,11 +24,12 @@ int f()
 
 int main()
 {
-  scanf("%d", &n);
+    scanf("%d", &n);
 
-  for(int i=0; i<n; i++)
-    scanf("%d", &d[i]);
+    for(int i=0; i<n; i++)
+        scanf("%d", &d[i]);
 
-  printf("%d", f());
-  return 0;
+    printf("%d", f());
+    
+    return 0;
 }

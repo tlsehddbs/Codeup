@@ -1,10 +1,9 @@
 #include <iostream>
+using std::cin;
+using std::cout;
 
 int main()
 {
-    using std::cin;
-    using std::cout;
-    
     int a, b, c = 0;
     cin >> a >> b >> c;
     

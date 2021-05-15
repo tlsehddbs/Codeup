@@ -4,6 +4,7 @@ int main()
 {
     int n = 0;
     std::cin >> n;
+
     if(n >= 90)
         std::cout << "A";
     else if(n >= 80 && n < 90)
@@ -14,5 +15,6 @@ int main()
         std::cout << "D";
     else 
         std::cout << "F";
+        
     return 0;
 }

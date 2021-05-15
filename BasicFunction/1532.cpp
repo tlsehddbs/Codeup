@@ -7,6 +7,6 @@ long long int f()
 
 int main()
 {
-    printf("%lld", f() );
+    printf("%lld", f());
     return 0;
 }

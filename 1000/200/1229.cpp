@@ -16,11 +16,11 @@ int main()
     double bmi = (w - p_w) * 100 / p_w;
     
     if (bmi <= 10)
-        std::cout << "ì •ìƒ";
+        std::cout << "Á¤»ó";
     else if(bmi <= 20)
-        std::cout << "ê³¼ì²´ì¤‘";
+        std::cout << "°úÃ¼Áß";
     else
-        std::cout << "ë¹„ë§Œ";
+        std::cout << "ºñ¸¸";
     
     return 0;
 }

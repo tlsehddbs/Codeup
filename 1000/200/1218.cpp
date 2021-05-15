@@ -1,10 +1,11 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    using namespace std;
     int a, b, c;
     cin >> a >> b >> c;
+
     if(a != 0 && b != 0 && c != 0 && (a+b) != c && (a+b) > c)
     {
         if(a == b && b == c)
@@ -18,5 +19,6 @@ int main()
     }
     else
         cout << "»ï°¢Çü¾Æ´Ô";
+        
     return 0;
 }

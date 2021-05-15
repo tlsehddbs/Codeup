@@ -1,8 +1,8 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    using namespace std;
     int a, b, result = 0;
     cin >> a >> b;
 
@@ -14,5 +14,6 @@ int main()
             result -= i;
     }
     cout << result;
+    
     return 0;
 }

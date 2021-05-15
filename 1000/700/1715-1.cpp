@@ -13,7 +13,7 @@ int main()
             b /= i;
         }
     }
-
     std::cout << a << " " << b;
+
     return 0;
 }

@@ -22,5 +22,6 @@ int main()
     std::cout << std::fixed;
     std::cout.precision(6);
     std::cout << result;
+    
     return 0;
 }

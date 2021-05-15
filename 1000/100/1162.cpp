@@ -4,10 +4,13 @@ int main()
 {
     int y, m, d, result = 0;
     std::cin >> y >> m >> d;
+
     result = y - m + d;
+
     if(result % 10 == 0)
-        std::cout << "ëŒ€ë°•";
+        std::cout << "´ë¹Ú";
     else
-        std::cout << "ê·¸ëŸ­ì €ëŸ­";
+        std::cout << "±×·°Àú·°";
+        
     return 0;
 }

@@ -1,10 +1,11 @@
 #include <iostream>
+using namespace std;
 
 int main()
-{
-    using namespace std;
+{   
     int a, b, c, d, count = 0;
     cin >> a >> b >> c >> d;
+    
     if (a == 1)
         count++;
     if (b == 1)
@@ -17,19 +18,19 @@ int main()
     switch (count)
     {
     case 1:
-        cout << "ë„";
+        cout << "µµ";
         break;
     case 2:
-        cout << "ê°œ";
+        cout << "°³";
         break;
     case 3:
-        cout << "ê±¸";
+        cout << "°É";
         break;
     case 4:
-        cout << "ìœ·";
+        cout << "À·";
         break;
     default:
-        cout << "ëª¨";
+        cout << "¸ð";
         break;
     }
     return 0;

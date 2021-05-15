@@ -16,5 +16,6 @@ int main()
 {
     scanf("%d", &n);
     f(n);
+    
     return 0;
 }

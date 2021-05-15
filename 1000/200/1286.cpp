@@ -1,9 +1,11 @@
 #include <iostream>
+
 int main()
 {
     int a[5] = {};
     int max = -1000001;
     int min = 1000001;
+
     for (int i = 0; i < 5; i++)
         std::cin >> a[i];
         
@@ -15,5 +17,6 @@ int main()
             min = a[i];
     }
     std::cout << max << "\n" << min;
+
     return 0;
 }

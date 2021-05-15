@@ -1,9 +1,8 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
-	using namespace std;
-	
 	int a, b = 0;
 	cin >> a >> b;
 	
@@ -11,5 +10,6 @@ int main()
 		cout << 1;
 	else 
 		cout << 0;
+		
 	return 0;
 }

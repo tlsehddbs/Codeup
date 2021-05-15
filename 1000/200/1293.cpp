@@ -1,11 +1,14 @@
 #include <iostream>
+
 int main()
 {
     int n = 0;
     std::cin >> n;
+
     int a[n] = {};
     int max = -101;
     int min = 101;
+
     for (int i = 0; i < n; i++)
         std::cin >> a[i];
         
@@ -17,5 +20,6 @@ int main()
             min = a[i];
     }
     std::cout << max << " " << min;
+    
     return 0;
 }

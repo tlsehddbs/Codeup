@@ -13,6 +13,7 @@ int main()
                 std::cout << i << " " << j;
                 a+=1;
             }
+            
         if(a != 0)
             break;
     }

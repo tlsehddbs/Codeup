@@ -1,8 +1,8 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    using namespace std;
     float a = 0;
     cin >> a;
     

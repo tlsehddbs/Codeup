@@ -4,6 +4,7 @@ int main()
 {
     int n;
     std::cin >> n;
+
     int a[n][n] = {};
 
     for(int i = 0; i < n; i++)
@@ -17,6 +18,7 @@ int main()
     {
         for(int j = 0; j <= i; j++)
             std::cout << a[i][j] << " ";
+            
         std::cout << "\n";
     }
     return 0;

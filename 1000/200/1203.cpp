@@ -6,11 +6,11 @@ int main()
     std::cin >> a;
     
     if(a <= 10)
-        std::cout << "ì •ìƒ";
+        std::cout << "Á¤»ó";
     else if (a <= 20)
-        std::cout << "ê³¼ì²´ì¤‘";
+        std::cout << "°úÃ¼Áß";
     else 
-        std::cout << "ë¹„ë§Œ";
+        std::cout << "ºñ¸¸";
         
     return 0;
 }

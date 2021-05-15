@@ -2,10 +2,11 @@
 
 char f()
 {
-  return 'A';
+    return 'A';
 }
+
 int main()
 {
-    printf("%c", f() );
+    printf("%c", f());
     return 0;
 }

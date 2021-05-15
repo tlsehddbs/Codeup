@@ -6,8 +6,9 @@ int main()
     std::cin >> y >> m >> d;
     
     if (((y + m + d) / 100) % 2 == 0)
-        std::cout << "ëŒ€ë°•";
+        std::cout << "´ë¹Ú";
     else
-        std::cout << "ê·¸ëŸ­ì €ëŸ­";
+        std::cout << "±×·°Àú·°";
+        
     return 0;
 }

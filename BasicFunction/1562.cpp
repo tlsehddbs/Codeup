@@ -9,6 +9,6 @@ int min(int n, int m)
 
 int main()
 {
-  scanf("%d%d", &n, &m);
-  printf("%d\n", min(n, m));
+    scanf("%d%d", &n, &m);
+    printf("%d\n", min(n, m));
 }

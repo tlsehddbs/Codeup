@@ -1,9 +1,8 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    using namespace std;
-    
     int a, b = 0;
     cin >> a >> b;
     

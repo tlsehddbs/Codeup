@@ -16,5 +16,6 @@ int main()
 		h = ((h + 1) / 2) * 10;
 
 	std::cout << k + h;
+	
 	return 0;
 }

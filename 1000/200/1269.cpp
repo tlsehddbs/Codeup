@@ -7,6 +7,7 @@ int main()
 
 	for (int i = 2; i <= n; i++)
 		a = a * b + c;
+		
 	std::cout << a;
 	
 	return 0;

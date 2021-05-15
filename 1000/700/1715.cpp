@@ -5,7 +5,7 @@ int main()
     int a, b;
     std::cin >> a >> b;
 
-    if (b % a == 0)
+    if(b % a == 0)
     {
         std::cout << 1 << " " << b / a;
         return 0;
@@ -18,5 +18,6 @@ int main()
             return 0;
         }
     std::cout << a << " " << b;
+    
     return 0;
 }

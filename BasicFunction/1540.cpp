@@ -9,9 +9,11 @@ void f(int n)
     else    
         printf("non zero");
 }
+
 int main()
 {
   scanf("%d", &n);
   f(n);
+  
   return 0;
 }

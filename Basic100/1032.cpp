@@ -1,10 +1,12 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
-	using namespace std;
 	int a;
+	
 	cin >> a;
 	cout << hex << a;
+	
 	return 0;
 }

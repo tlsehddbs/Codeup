@@ -13,5 +13,6 @@ int main()
         count += result;
     }
     std::cout << count;
+    
     return 0;
 }

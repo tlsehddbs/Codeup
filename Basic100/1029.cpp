@@ -1,12 +1,14 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    using namespace std;
     double a;
+    cin >> a;
+
     cout << fixed;
     cout.precision(11);
-    cin >> a;
     cout << a;
+
     return 0;
 }

@@ -2,9 +2,10 @@
 
 void f()
 {
-  printf("%c", '*');
-  printf("%c", '*');
+    printf("%c", '*');
+    printf("%c", '*');
 }
+
 int main()
 {
     f();

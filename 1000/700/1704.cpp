@@ -15,5 +15,6 @@ int main()
         std::cout << (2012 - (2000 + birth) + 1) << " " << "M";
     else if ((b / 1000000) == 4)
         std::cout << (2012 - (2000 + birth) + 1) << " " << "F";
+        
     return 0;
 }
