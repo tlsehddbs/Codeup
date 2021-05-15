@@ -65,7 +65,6 @@ int main()
 				retakegrade[a] = level[i];
 				a++;
 			}
-    
 
     cout << fixed;
     cout.precision(2);
