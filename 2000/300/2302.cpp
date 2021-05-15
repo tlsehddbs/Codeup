@@ -17,11 +17,11 @@ int main()
 
     cin >> n;
 
-    //ì…ë ¥
+    // ÀÔ·Â
     for (int i = 0; i < n; i++)    
         cin >> subject[i] >> level[i] >> grade[i];    
 
-    // í•™ì  ê³„ì‚°
+    // ÇĞÁ¡ °è»ê
     for (int i = 0; i < n; i++)
     {
         if(level[i] == "A+")         
@@ -57,10 +57,10 @@ int main()
 
         temp += int(grade[i]);
     }
-    // í‰ê·  ê³„ì‚°
+    // Æò±Õ °è»ê
     average = result / temp;
 
-    // í‰ê· ì— ì˜í•œ í•™ì  í‰ì–´
+    // Æò±Õ¿¡ ÀÇÇÑ ÇĞÁ¡ Æò¾î
     if (average == 4.30)
         avglevel = "A+";
     else if (4.29 >= average && average >= 4.00)
@@ -88,7 +88,7 @@ int main()
     else if (0.69 >= average && average >= 0.00)
         avglevel = "F";
     
-    // ë¯¸ë‹¬ ê³¼ëª©
+    // ¹Ì´Ş °ú¸ñ
     int a = 0;
     
     for (int i = 0; i < n; i++)
@@ -105,7 +105,7 @@ int main()
     cout << fixed;
     cout.precision(2);
 
-    // ì¶œë ¥
+    // Ãâ·Â
     cout << "Average : " << average << " (" << avglevel << ")" << endl << endl;
     cout << "RETAKE NEEDED " << "(" << retake_count << ")" << endl;
 
