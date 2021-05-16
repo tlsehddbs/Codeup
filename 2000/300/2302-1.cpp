@@ -29,10 +29,10 @@ int main()
     {
 	for(int j = 0; j < 15; j++)
 	    if(level[i] == blevel[j])
-		{
-		    caltemp = (bgrade[j] * (int)grade[i]); 
-		    result += caltemp;
-		}
+	    {
+		caltemp = (bgrade[j] * (int)grade[i]); 
+		result += caltemp;
+	    }
 
         temp += int(grade[i]);
     }
@@ -58,13 +58,13 @@ int main()
     for (int i = 0; i < n; i++)
 	for(int j = 6; j < 15; j++)
 	    if (level[i] == blevel[j] && level[i] != blevel[13])
-		{
-		    retake_count++;
+	    {
+		retake_count++;
 		    
-		    retake[a] = subject[i];
-		    retakegrade[a] = level[i];
-		    a++;
-		}
+		retake[a] = subject[i];
+		retakegrade[a] = level[i];
+		a++;
+	    }
 
     cout << fixed;
     cout.precision(2);
