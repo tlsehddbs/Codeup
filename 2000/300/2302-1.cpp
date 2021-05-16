@@ -27,12 +27,12 @@ int main()
     // 학점 계산
     for (int i = 0; i < n; i++)
     {
-		for(int j = 0; j < 15; j++)
-			if(level[i] == blevel[j])
-			{
-				caltemp = (bgrade[j] * (int)grade[i]); 
-				result += caltemp;
-			}
+	for(int j = 0; j < 15; j++)
+	    if(level[i] == blevel[j])
+		{
+		    caltemp = (bgrade[j] * (int)grade[i]); 
+		    result += caltemp;
+		}
 
         temp += int(grade[i]);
     }
@@ -40,7 +40,7 @@ int main()
     average = result / temp;
 
     // 평균에 의한 학점 평어
-    if (average == 4.30)							avglevel = "A+";
+    if (average == 4.30)				avglevel = "A+";
     else if (4.29 >= average && average >= 4.00) 	avglevel = "A0";
     else if (3.99 >= average && average >= 3.70) 	avglevel = "A-";
     else if (3.69 >= average && average >= 3.30)	avglevel = "B+";
@@ -56,15 +56,15 @@ int main()
     
     // 미달 과목
     for (int i = 0; i < n; i++)
-		for(int j = 6; j < 15; j++)
-			if (level[i] == blevel[j] && level[i] != blevel[13])
-			{
-				retake_count++;
-
-				retake[a] = subject[i];
-				retakegrade[a] = level[i];
-				a++;
-			}
+	for(int j = 6; j < 15; j++)
+	    if (level[i] == blevel[j] && level[i] != blevel[13])
+		{
+		    retake_count++;
+		    
+		    retake[a] = subject[i];
+		    retakegrade[a] = level[i];
+		    a++;
+		}
 
     cout << fixed;
     cout.precision(2);
