@@ -9,10 +9,10 @@ int main()
 
     string subject[30] = {};
     string level[30] = {};
-	int grade[30] = {};
+    int grade[30] = {};
 
-	string blevel[15] = { "A+", "A0", "A-", "B+", "B0", "B-", "C+", "C0", "C-", "D+", "D0", "D-", "F", "Pass", "Fail" };
-	double bgrade[15] = { 4.3, 4.0, 3.7, 3.3, 3.0, 2.7, 2.3, 2.0, 1.7, 1.3, 1.0, 0.7, 0.0, 4.3, 0.0 };
+    string blevel[15] = { "A+", "A0", "A-", "B+", "B0", "B-", "C+", "C0", "C-", "D+", "D0", "D-", "F", "Pass", "Fail" };
+    double bgrade[15] = { 4.3, 4.0, 3.7, 3.3, 3.0, 2.7, 2.3, 2.0, 1.7, 1.3, 1.0, 0.7, 0.0, 4.3, 0.0 };
     
     string retake[30] = {};
     string retakegrade[30] = {};
@@ -20,11 +20,11 @@ int main()
 
     cin >> n;
 
-    //ÀÔ·Â
+    //ì…ë ¥
     for (int i = 0; i < n; i++)    
         cin >> subject[i] >> level[i] >> grade[i];    
 
-    // ÇĞÁ¡ °è»ê
+    // í•™ì  ê³„ì‚°
     for (int i = 0; i < n; i++)
     {
 		for(int j = 0; j < 15; j++)
@@ -36,10 +36,10 @@ int main()
 
         temp += int(grade[i]);
     }
-    // Æò±Õ °è»ê
+    // í‰ê·  ê³„ì‚°
     average = result / temp;
 
-    // Æò±Õ¿¡ ÀÇÇÑ ÇĞÁ¡ Æò¾î
+    // í‰ê· ì— ì˜í•œ í•™ì  í‰ì–´
     if (average == 4.30)							avglevel = "A+";
     else if (4.29 >= average && average >= 4.00) 	avglevel = "A0";
     else if (3.99 >= average && average >= 3.70) 	avglevel = "A-";
@@ -54,7 +54,7 @@ int main()
     else if (0.99 >= average && average >= 0.70)	avglevel = "D-";
     else if (0.69 >= average && average >= 0.00)	avglevel = "F";
     
-    // ¹Ì´Ş °ú¸ñ
+    // ë¯¸ë‹¬ ê³¼ëª©
     for (int i = 0; i < n; i++)
 		for(int j = 6; j < 15; j++)
 			if (level[i] == blevel[j] && level[i] != blevel[13])
@@ -69,7 +69,7 @@ int main()
     cout << fixed;
     cout.precision(2);
 
-    // Ãâ·Â
+    // ì¶œë ¥
     cout << "Average : " << average << " (" << avglevel << ")" << endl << endl;
     cout << "RETAKE NEEDED " << "(" << retake_count << ")" << endl;
 
