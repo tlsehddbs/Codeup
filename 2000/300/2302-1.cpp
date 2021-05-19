@@ -20,27 +20,27 @@ int main()
 
     cin >> n;
 
-    //ì…ë ¥
+    // ÀÔ·Â
     for (int i = 0; i < n; i++)    
         cin >> subject[i] >> level[i] >> grade[i];    
 
-    // í•™ì  ê³„ì‚°
+    // ÇĞÁ¡ °è»ê
     for (int i = 0; i < n; i++)
     {
-	for(int j = 0; j < 15; j++)
-	    if(level[i] == blevel[j])
-	    {
-		caltemp = (bgrade[j] * (int)grade[i]); 
-		result += caltemp;
-	    }
+	    for(int j = 0; j < 15; j++)
+            if(level[i] == blevel[j])
+            {
+                caltemp = (bgrade[j] * (int)grade[i]); 
+                result += caltemp;
+            }
 
         temp += int(grade[i]);
     }
-    // í‰ê·  ê³„ì‚°
+    // Æò±Õ °è»ê
     average = result / temp;
 
-    // í‰ê· ì— ì˜í•œ í•™ì  í‰ì–´
-    if (average == 4.30)				avglevel = "A+";
+    // Æò±Õ¿¡ ÀÇÇÑ ÇĞÁ¡ Æò¾î
+    if (average == 4.30)				            avglevel = "A+";
     else if (4.29 >= average && average >= 4.00) 	avglevel = "A0";
     else if (3.99 >= average && average >= 3.70) 	avglevel = "A-";
     else if (3.69 >= average && average >= 3.30)	avglevel = "B+";
@@ -54,27 +54,27 @@ int main()
     else if (0.99 >= average && average >= 0.70)	avglevel = "D-";
     else if (0.69 >= average && average >= 0.00)	avglevel = "F";
     
-    // ë¯¸ë‹¬ ê³¼ëª©
+    // ¹Ì´Ş °ú¸ñ
     for (int i = 0; i < n; i++)
-	for(int j = 6; j < 15; j++)
-	    if (level[i] == blevel[j] && level[i] != blevel[13])
-	    {
-		retake_count++;
-		    
-		retake[a] = subject[i];
-		retakegrade[a] = level[i];
-		a++;
-	    }
+        for(int j = 6; j < 15; j++)
+            if (level[i] == blevel[j] && level[i] != blevel[13])
+            {
+                retake_count++;
+                    
+                retake[a] = subject[i];
+                retakegrade[a] = level[i];
+                a++;
+            }
 
     cout << fixed;
     cout.precision(2);
 
-    // ì¶œë ¥
+    // Ãâ·Â
     cout << "Average : " << average << " (" << avglevel << ")" << endl << endl;
     cout << "RETAKE NEEDED " << "(" << retake_count << ")" << endl;
 
     for(int i = 0; i < retake_count; i++)
-       cout << " " << retake[i] << " (" << retakegrade[i] << ")" << endl;
+        cout << " " << retake[i] << " (" << retakegrade[i] << ")" << endl;
 
     return 0;
 }
