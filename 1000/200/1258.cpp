@@ -1,14 +1,15 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
     int n, res = 0;
-    std::cin >> n;
+    cin >> n;
     
-    for (int i = 1; i <= n; i++)
+    for(int i = 1; i <= n; i++)
         res = res + i;
         
-    std::cout << res;
+    cout << res;
     
     return 0;
 }

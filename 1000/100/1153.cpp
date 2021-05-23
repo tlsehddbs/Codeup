@@ -1,14 +1,14 @@
 #include <iostream>
-using std::cout;
+using namespace std;
 
 int main()
 {
     int a, b = 0;
-    std::cin >> a >> b;
+    cin >> a >> b;
 
-    if (a > b)
+    if(a > b)
         cout << ">";
-    else if (b > a)
+    else if(b > a)
         cout << "<";
     else
         cout << "=";

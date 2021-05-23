@@ -1,14 +1,15 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
     char c;
-    std::cin >> c;
+    cin >> c;
 
     c = (int)c;
 
-    for (int i = (int)'a'; i <= c; i++)
-        std::cout << (char)i << " ";
+    for(int i = (int)'a'; i <= c; i++)
+        cout << (char)i << " ";
         
     return 0;
 }

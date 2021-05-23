@@ -1,4 +1,5 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
@@ -6,20 +7,20 @@ int main()
     int c = 0;
 
     for(int i = 0; i < 10; i++)
-        std::cin >> a[i];
+        cin >> a[i];
         
     for(int i = 0; i < 10; i++)
     {
-        if (a[i] % 5 == 0)
+        if(a[i] % 5 == 0)
         {
-            std::cout << a[i];
+            cout << a[i];
             c = 1;
             break;
         }
     }
     
-    if (c == 0)
-        std::cout << 0;
+    if(c == 0)
+        cout << 0;
 
     return 0;
 }

@@ -1,14 +1,15 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    int n, temp = 0;
-    std::cin >> n;
+    int n, temp;
+    cin >> n;
 
-    int a[n] = {};
+    int a[1000] = {};
 
     for(int i = 0; i < n; i++)
-        std::cin >> a[i];
+        cin >> a[i];
 
     for(int i = 0; i < n; i++)
     {
@@ -16,13 +17,13 @@ int main()
 
         for(int j = 0; j < n; j++)
         {
-            std::cout << a[temp] << " ";
+            cout << a[temp] << " ";
             temp++;
             
             if(temp == n)
                 temp = 0;
         }
-        std::cout << '\n';
+        cout << '\n';
     }
     return 0;
 }

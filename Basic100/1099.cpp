@@ -1,4 +1,5 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
@@ -6,7 +7,7 @@ int main()
 
     for(int i = 0; i < 10; i++)
         for(int j = 0; j < 10; j++)
-            std::cin >> a[i][j];
+            cin >> a[i][j];
 
     int x = 1, y = 1;
 
@@ -23,14 +24,15 @@ int main()
             y++;
         }
     }
+
     a[y][x] = 9;
 
     for(int i = 0; i < 10; i++)
     {
         for(int j = 0; j < 10; j++)
-            std::cout << a[i][j] << " ";
+            cout << a[i][j] << " ";
             
-        std::cout << "\n";
+        cout << "\n";
     }
     return 0;
 }

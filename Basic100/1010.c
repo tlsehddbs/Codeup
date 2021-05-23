@@ -2,10 +2,10 @@
 
 int main()
 {
-    char c;
+    int n;
     
-    scanf("%c",&c);
-    printf("%c",c);
+    scanf("%d", &n);
+    printf("%d", n);
     
     return 0;
 }

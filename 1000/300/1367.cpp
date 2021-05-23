@@ -1,20 +1,20 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
     int n;
-    
-    std::cin >> n;
+    cin >> n;
 
     for(int i = 0; i < n; i++)
     {
         for(int j = n - 1; j > i; j--)
-            std::cout << " ";
+            cout << " ";
 
         for(int q = 1; q <= n; q++)
-            std::cout << "*";
+            cout << "*";
         
-        std::cout << "\n";
+        cout << "\n";
     }
     return 0;
 }

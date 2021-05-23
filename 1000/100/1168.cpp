@@ -1,9 +1,10 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
     int a, b, age;
-    std::cin >> a >> b;
+    cin >> a >> b;
     a /= 10000;
 
     if(b == 1 || b == 2)
@@ -11,7 +12,7 @@ int main()
     else if(b == 3 || b == 4)
         age = 2012 - (a + 2000) + 1;
 
-    std::cout << age;
+    cout << age;
     
     return 0;
 }

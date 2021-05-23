@@ -1,8 +1,9 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    std::cout << "\"c:\\test\"";
+    cout << "\"c:\\test\"";
     
     return 0;
 }

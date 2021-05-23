@@ -1,10 +1,11 @@
 #include <iostream>
 #include <cmath>
+using namespace std;
 
 int main()
 {
     float a, b, result;
-    std::cin >> a >> b;
+    cin >> a >> b;
     
     result = a + b;
 
@@ -19,9 +20,9 @@ int main()
     if(pow(a, b) > result) result = pow(a, b);
     if(pow(b, a) > result) result = pow(b, a);
 
-    std::cout << std::fixed;
-    std::cout.precision(6);
-    std::cout << result;
+    cout << std::fixed;
+    cout.precision(6);
+    cout << result;
     
     return 0;
 }

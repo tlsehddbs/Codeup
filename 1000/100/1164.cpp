@@ -1,15 +1,16 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
     int H = 170;
-    int a, b, c = 0;
-    std::cin >> a >> b >> c;
+    int a, b, c;
+    cin >> a >> b >> c;
 
-    if (a > H && b > H && c > H)
-        std::cout << "PASS";
+    if(a > H && b > H && c > H)
+        cout << "PASS";
     else
-        std::cout << "CRASH";
+        cout << "CRASH";
         
     return 0;
 }

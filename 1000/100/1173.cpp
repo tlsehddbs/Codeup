@@ -1,9 +1,10 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
     int h, m;
-    std::cin >> h >> m;
+    cin >> h >> m;
 
     if(h != 0)
     {
@@ -25,7 +26,7 @@ int main()
             h = 23;
         }
     }
-    std::cout << h << " " << m;
+    cout << h << " " << m;
 
     return 0;
 }

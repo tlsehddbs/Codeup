@@ -1,9 +1,10 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
     int n, a, b, x, tot;
-    std::cin >> n;
+    cin >> n;
 
     a = n / 10;
     b = n - (a * 10);
@@ -15,11 +16,11 @@ int main()
         tot -= x * 100;
     }
 
-    std::cout << tot << std::endl;
+    cout << tot << endl;
     if(tot > 50)
-        std::cout << "OH MY GOD";
+        cout << "OH MY GOD";
     else
-        std::cout << "GOOD";
+        cout << "GOOD";
     
     return 0;
 }

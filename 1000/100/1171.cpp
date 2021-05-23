@@ -1,26 +1,27 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    int a, b, c = 0;
-    std::cin >> a >> b >> c;
+    int a, b, c;
+    cin >> a >> b >> c;
     
-    std::cout << a;
+    cout << a;
 
-    if (b < 10)
-        std::cout << 0 << b;
+    if(b < 10)
+        cout << 0 << b;
     else
-        std::cout << b;
+        cout << b;
         
-    if (c < 100)
+    if(c < 100)
     {
-        if (c < 10)
-            std::cout << 0 << 0 << c;
+        if(c < 10)
+            cout << 0 << 0 << c;
         else
-            std::cout << 0 << c;
+            cout << 0 << c;
     }
     else
-        std::cout << c;
+        cout << c;
 
     return 0;
 }

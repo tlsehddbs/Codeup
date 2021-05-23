@@ -1,16 +1,17 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    int a, b, c;
-    std::cin >> a >> b;
+    int a, b;
+    cin >> a >> b;
 
-    if (a > b)
-        std::cout << a;
-    else if (a < b)
-        std::cout << b;
+    if(a > b)
+        cout << a;
+    else if(a < b)
+        cout << b;
     else 
-        std::cout << a;
+        cout << a;
         
     return 0;
 }

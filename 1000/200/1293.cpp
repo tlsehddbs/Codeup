@@ -1,25 +1,26 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    int n = 0;
-    std::cin >> n;
+    int n;
+    cin >> n;
 
-    int a[n] = {};
+    int a[100] = {};
     int max = -101;
     int min = 101;
 
-    for (int i = 0; i < n; i++)
-        std::cin >> a[i];
+    for(int i = 0; i < n; i++)
+        cin >> a[i];
         
-    for (int i = 0; i < n; i++)
+    for(int i = 0; i < n; i++)
     {
-        if (a[i] > max)
+        if(a[i] > max)
             max = a[i];
-        else if (a[i] < min)
+        else if(a[i] < min)
             min = a[i];
     }
-    std::cout << max << " " << min;
+    cout << max << " " << min;
     
     return 0;
 }

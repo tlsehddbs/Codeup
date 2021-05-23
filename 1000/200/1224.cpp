@@ -1,16 +1,17 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    double a, b, c, d = 0;
-    std::cin >> a >> b >> c >> d;
+    double a, b, c, d;
+    cin >> a >> b >> c >> d;
 
-    if (a/b > c/d)
-        std::cout << ">";
-    else if (a/b == c/d)
-        std::cout << "=";
+    if(a / b > c / d)
+        cout << ">";
+    else if(a / b == c / d)
+        cout << "=";
     else
-        std::cout << "<";
+        cout << "<";
         
     return 0;
 }

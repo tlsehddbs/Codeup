@@ -1,10 +1,10 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    int n, a = 0;
-    
-    std::cin >> n;
+    int n, a = 0; 
+    cin >> n;
 
     for(int i = 1; i <= n; i++)
         a += i;
@@ -13,10 +13,10 @@ int main()
     {
         for(int j = 0; j < i; j++)
         {
-            std::cout << a << " ";
+            cout << a << " ";
             a--;
         }
-        std::cout << "\n";
+        cout << "\n";
     }
     return 0;
 }

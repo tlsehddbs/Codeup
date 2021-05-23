@@ -1,14 +1,15 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
     int n;
-    std::cin >> n;
+    cin >> n;
 
-    int a[n][n] = {};
+    int a[21][21] = {};
 
     for(int i = 0; i < n; i++)
-        std::cin >> a[i][0];
+        cin >> a[i][0];
 
     for(int i = 1; i < n; i++)
         for(int j = 1; j < n; j++)
@@ -17,9 +18,9 @@ int main()
     for(int i = 0; i < n; i++)
     {
         for(int j = 0; j <= i; j++)
-            std::cout << a[i][j] << " ";
+            cout << a[i][j] << " ";
             
-        std::cout << "\n";
+        cout << "\n";
     }
     return 0;
 }

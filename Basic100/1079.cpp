@@ -1,13 +1,14 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
 	char c = 'a';
 	
-	while (c != 'q')
+	while(c != 'q')
 	{
-		std::cin >> c;
-		std::cout << c << "\n";
+		cin >> c;
+		cout << c << "\n";
 	}
 	return 0;
 }

@@ -3,7 +3,7 @@ using namespace std;
 
 void ten_to_two_j(unsigned n) 
 {
-    if (n < 2) 
+    if(n < 2) 
         cout << n;
     else 
     {

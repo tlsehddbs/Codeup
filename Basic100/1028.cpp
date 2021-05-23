@@ -1,11 +1,12 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
     unsigned int a;
 
-    std::cin >> a;
-    std::cout << a;
+    cin >> a;
+    cout << a;
     
     return 0;
 }

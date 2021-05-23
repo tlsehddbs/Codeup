@@ -2,10 +2,10 @@
 
 int main()
 {
-    int n;
+    float n;
     
-    scanf("%d",&n);
-    printf("%d",n);
+    scanf("%f", &n);
+    printf("%.2f", n);
     
     return 0;
 }

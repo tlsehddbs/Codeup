@@ -1,16 +1,17 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
     int n = 0;
-    std::cin >> n;
+    cin >> n;
     
-    if (n % 4 == 0 && n % 100 != 0)
-        std::cout << "yes";
-    else if (n % 400 == 0)
-        std::cout << "yes";
+    if(n % 4 == 0 && n % 100 != 0)
+        cout << "yes";
+    else if(n % 400 == 0)
+        cout << "yes";
     else
-        std::cout << "no";
+        cout << "no";
         
     return 0;
 }

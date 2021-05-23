@@ -1,11 +1,12 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
     char c[30];
 
-    std::cin.getline(c, 30);
-    std::cout << c;
+    cin.getline(c, 30);
+    cout << c;
     
     return 0;
 }

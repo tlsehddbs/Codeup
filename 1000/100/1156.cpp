@@ -1,14 +1,15 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
     int a = 0;
-    std::cin >> a;
+    cin >> a;
     
-    if (a % 2 == 0)
-        std::cout << "even";
+    if(a % 2 == 0)
+        cout << "even";
     else 
-        std::cout << "odd";
+        cout << "odd";
 
     return 0;
 }

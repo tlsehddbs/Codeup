@@ -1,9 +1,10 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    for (int i = 0; i < 50; i++)
-        std::cout << "print";
+    for(int i = 0; i < 50; i++)
+        cout << "print";
     
     return 0;
 }

@@ -1,15 +1,16 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
-	int a, b, k, r = 0;
-	std::cin >> a >> b >> k;
+	int a, b, k, r;
+	cin >> a >> b >> k;
 
 	r = b - a;
 	
-	for (int i = a; a <= k; i++)
+	for(int i = a; a <= k; i++)
 	{
-		std::cout << a << " ";
+		cout << a << " ";
 		a += r;
 	}
 	return 0;

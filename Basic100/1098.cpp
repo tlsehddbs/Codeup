@@ -1,16 +1,16 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
     int w, h, n, l, d, x, y;
     int arr[101][101] = {};
 
-    // 입력
-    std::cin >> h >> w >> n;
+    cin >> h >> w >> n;
     
     for(int i = 1; i <= n; i++)
     {
-        std::cin >> l >> d >> y >> x;
+        cin >> l >> d >> y >> x;
 
         if(d == 0)
             for(int j = 0; j < l; j++)
@@ -21,13 +21,12 @@ int main()
                 arr[x][y+j] = 1;
     }
 
-    // 출력
     for(int i = 1; i <= h; i++)
     {
         for(int j = 1; j <= w; j++)
-            std::cout << arr[j][i] << " ";
+            cout << arr[j][i] << " ";
 
-        std::cout << "\n";
+        cout << "\n";
     }
     return 0;
 }

@@ -6,7 +6,7 @@ int main()
     int a, b = 0;
     cin >> a >> b;
     
-    if (a == b)
+    if(a == b)
         cout << 1;
     else 
         cout << 0;

@@ -1,14 +1,15 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
     int a = 0;
-    std::cin >> a;
+    cin >> a;
 
-    if (a >= 50 && a <= 70 || a % 6 == 0)
-        std::cout << "win";
+    if(a >= 50 && a <= 70 || a % 6 == 0)
+        cout << "win";
     else
-        std::cout << "lose";
+        cout << "lose";
         
     return 0;
 }

@@ -1,16 +1,17 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
     int n = 0;
-    std::cin >> n;
+    cin >> n;
 
     if(n > 0)
-        std::cout << "양수";
-    else if (n < 0)
-        std::cout << "음수";
+        cout << "양수";
+    else if(n < 0)
+        cout << "음수";
     else 
-        std::cout << 0;
+        cout << 0;
         
     return 0;
 }

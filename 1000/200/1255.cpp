@@ -9,7 +9,7 @@ int main()
     cout << fixed;
     cout.precision(2);
 
-    for (double i = a; i <= b; i+=0.01)
+    for(double i = a; i <= b; i += 0.01)
         cout << i << " ";
 
     return 0;

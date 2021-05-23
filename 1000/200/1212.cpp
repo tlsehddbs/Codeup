@@ -1,33 +1,34 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    int a, b, c = 0;
-    std::cin >> a >> b >> c;
+    int a, b, c;
+    cin >> a >> b >> c;
 
-    if (a > b && a > c)
+    if(a > b && a > c)
     {
-        if (a < b + c)
-            std::cout << "yes";
+        if(a < b + c)
+            cout << "yes";
         else 
-            std::cout << "no";
+            cout << "no";
     }
-    else if (b > a && b > c)
+    else if(b > a && b > c)
     {
-        if (b < a + c)
-            std::cout << "yes";
+        if(b < a + c)
+            cout << "yes";
         else 
-            std::cout << "no";
+            cout << "no";
     }
-    else if (c > a && c > b)
+    else if(c > a && c > b)
     {
-        if (a + b > c)
-            std::cout << "yes";
+        if(a + b > c)
+            cout << "yes";
         else
-            std::cout << "no";
+            cout << "no";
     }
     else
-        std::cout << "yes";
+        cout << "yes";
         
     return 0;
 }

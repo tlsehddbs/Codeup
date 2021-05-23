@@ -3,6 +3,7 @@
 float circle(int r)
 {
     float result;
+    
     result = 3.14 * r * r;
 
     return result;

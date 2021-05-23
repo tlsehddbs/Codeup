@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {    
-    int a = 0;
+    int a;
     cin >> a;
     
     cout << a * 24;

@@ -4,13 +4,11 @@ using namespace std;
 int main()
 {
     int a, b, mine = 0;
-
     int m[10][10] = {};
     
     for(int i = 1; i < 10; i++)
         for(int j = 1; j < 10; j++)
-            cin >> m[i][j];
-            
+            cin >> m[i][j];       
     cin >> a >> b;
 
     if(m[a][b] == 1)

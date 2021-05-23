@@ -1,14 +1,15 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
     int n = 0;
-    std::cin >> n;
+    cin >> n;
 
     if (n < 10)
-        std::cout << "small";
+        cout << "small";
     else
-        std::cout << "big";
+        cout << "big";
         
     return 0;
 }

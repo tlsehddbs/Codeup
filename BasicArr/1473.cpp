@@ -1,11 +1,12 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
     int n, m, count;
     int a[100][100] = {};
 
-    std::cin >> n >> m;
+    cin >> n >> m;
 
     count = n * m;
 
@@ -28,7 +29,7 @@ int main()
     for(int i = (n - 1); i >= 0; i--)
     {
         for(int j = 0; j < m; j++)
-            std::cout << a[i][j] << " ";
+            cout << a[i][j] << " ";
             
         std::cout << "\n";
     }

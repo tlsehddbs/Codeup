@@ -18,7 +18,7 @@ int main()
     cin >> n;
 
     // 입력
-    for (int i = 0; i < n; i++)    
+    for(int i = 0; i < n; i++)    
         cin >> subject[i] >> level[i] >> grade[i];    
 
     // 학점 계산
@@ -61,38 +61,38 @@ int main()
     average = result / temp;
 
     // 평균에 의한 학점 평어
-    if (average == 4.30)
+    if(average == 4.30)
         avglevel = "A+";
-    else if (4.29 >= average && average >= 4.00)
+    else if(4.29 >= average && average >= 4.00)
         avglevel = "A0";
-    else if (3.99 >= average && average >= 3.70)
+    else if(3.99 >= average && average >= 3.70)
         avglevel = "A-";
-    else if (3.69 >= average && average >= 3.30)
+    else if(3.69 >= average && average >= 3.30)
         avglevel = "B+";
-    else if (3.29 >= average && average >= 3.00)
+    else if(3.29 >= average && average >= 3.00)
         avglevel = "B0";
-    else if (2.99 >= average && average >= 2.70)
+    else if(2.99 >= average && average >= 2.70)
         avglevel = "B-";
-    else if (2.69 >= average && average >= 2.30)
+    else if(2.69 >= average && average >= 2.30)
         avglevel = "C+";
-    else if (2.29 >= average && average >= 2.00)
+    else if(2.29 >= average && average >= 2.00)
         avglevel = "C0";
-    else if (1.99 >= average && average >= 1.70)
+    else if(1.99 >= average && average >= 1.70)
         avglevel = "C-";
-    else if (1.69 >= average && average >= 1.30)
+    else if(1.69 >= average && average >= 1.30)
         avglevel = "D+";
-    else if (1.29 >= average && average >= 1.00)
+    else if(1.29 >= average && average >= 1.00)
         avglevel = "D0";
-    else if (0.99 >= average && average >= 0.70)
+    else if(0.99 >= average && average >= 0.70)
         avglevel = "D-";
-    else if (0.69 >= average && average >= 0.00)
+    else if(0.69 >= average && average >= 0.00)
         avglevel = "F";
     
     // 미달 과목
     int a = 0;
     
-    for (int i = 0; i < n; i++)
-        if (level[i] == "C+" || level[i] == "C0" || level[i] == "C-" || level[i] == "D+" || level[i] == "D0" || level[i] == "D-" || level[i] == "F" || level[i] == "Fail")
+    for(int i = 0; i < n; i++)
+        if(level[i] == "C+" || level[i] == "C0" || level[i] == "C-" || level[i] == "D+" || level[i] == "D0" || level[i] == "D-" || level[i] == "F" || level[i] == "Fail")
         {
             retake_count++;
 

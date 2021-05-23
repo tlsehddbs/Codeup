@@ -1,13 +1,14 @@
 #include <iostream>
 #include <cstring>
+using namespace std;
 
 int main()
 {
     char c[100] = {};
-    std::cin >> c;
+    cin >> c;
 
     if(strcmp(c,"love") == 0)
-        std::cout << "I love you.";
+        cout << "I love you.";
         
     return 0;
 }

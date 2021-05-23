@@ -1,11 +1,12 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
     int k, n;
-    std::cin >> k >> n;
+    cin >> k >> n;
 
-    std::cout << k * n;
+    cout << k * n;
     
     return 0;
 }

@@ -1,4 +1,5 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
@@ -6,9 +7,9 @@ int main()
     float cal, result;
     int ud[10] = {};
 
-    std::cin >> a >> b;
+    cin >> a >> b;
     for(int i = 0; i < b; i++)
-        std::cin >> ud[i];
+        cin >> ud[i];
 
     cal = a;
     
@@ -17,16 +18,16 @@ int main()
 
     result = cal - a;
     
-    std::cout << std::fixed;
-    std::cout.precision(0);
-    std::cout << result << "\n";
+    cout << fixed;
+    cout.precision(0);
+    cout << result << "\n";
 
     if(result > 0)
-        std::cout << "good";
+        cout << "good";
     else if(result < 0)
-        std::cout << "bad";
+        cout << "bad";
     else
-        std::cout << "same";
+        cout << "same";
     
     return 0;
 }

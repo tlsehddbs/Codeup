@@ -4,7 +4,6 @@ using namespace std;
 int main()
 {   
     int a[10];
-
     int f = 0, l = 0;
 
     float result;

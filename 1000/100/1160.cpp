@@ -1,14 +1,15 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
     int a = 0;
-    std::cin >> a;
+    cin >> a;
 
-    if (a % 2 != 0)
-        std::cout << "oh my god";
+    if(a % 2 != 0)
+        cout << "oh my god";
     else
-        std::cout << "enjoy";
+        cout << "enjoy";
         
     return 0;
 }

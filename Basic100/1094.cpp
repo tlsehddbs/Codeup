@@ -5,6 +5,7 @@ int main()
 {
     int i, n, k;
     int a[10000] = {};
+    
     cin >> n;
 
     for(i = 1; i <= n; i++)

@@ -1,11 +1,12 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
     int n, count;
-    std::cin >> n;
+    int a[100][100] = {};
     
-    int a[n][n] = {};
+    cin >> n;
 
     for(int i = 0; i < n; i++)
     {
@@ -15,9 +16,10 @@ int main()
         {
             a[i][j] = count;
             count += n;
-            std::cout << a[i][j] << " ";
+            
+            cout << a[i][j] << " ";
         }
-        std::cout << "\n";
+        cout << "\n";
     }
     return 0;
 }

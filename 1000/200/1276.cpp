@@ -1,16 +1,15 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    int a = 0;
-    std::cin >> a;
+    int a, result = 1;
+    cin >> a;
 
-    int result = 1;
-
-    for (int i = 1; i <= a; i++)
+    for(int i = 1; i <= a; i++)
         result *= i;
 
-    std::cout << result;
+    cout << result;
 
     return 0;
 }

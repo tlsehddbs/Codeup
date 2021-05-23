@@ -3,10 +3,10 @@ using namespace std;
 
 int main() 
 {
-    int n = 0, count = 1;
-    cin >> n;
+    int n, count = 1;
+    int a[100][100] = {};
     
-    int a[n][n] = {};
+    cin >> n;
 
     for(int i = 1; i <= n; i++)
     {

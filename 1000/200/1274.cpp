@@ -1,18 +1,19 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
 	int n , cnt = 0;
-	std::cin >> n;
+	cin >> n;
 
-	for (int i = 1; i <= n; i++)
-		if (n % i == 0)
+	for(int i = 1; i <= n; i++)
+		if(n % i == 0)
 			cnt++;
 	
-	if (cnt == 2)
-		std::cout << "prime";
+	if(cnt == 2)
+		cout << "prime";
 	else
-		std::cout << "not prime";
+		cout << "not prime";
 		
 	return 0;
 }

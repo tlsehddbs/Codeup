@@ -1,13 +1,14 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    int a, b = 0;
-    std::cin >> a >> b;
+    int a, b;
+    cin >> a >> b;
 
-    for (int i = a; i <= b; i++)
+    for(int i = a; i <= b; i++)
         if(i % 2 != 0)
-            std::cout << i << " ";
+            cout << i << " ";
             
     return 0;
 }

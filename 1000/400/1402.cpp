@@ -1,17 +1,18 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
-	int n = 0;
-	std::cin >> n;
+	int n;
+	int a[1000] = {};
 
-	int a[n] = {};
+	cin >> n;
 
-	for (int i = 0; i < n; i++)
-		std::cin >> a[i];
+	for(int i = 0; i < n; i++)
+		cin >> a[i];
 		
-	for (int i = 1; i <= n; i++)
-		std::cout << a[n-i] << " ";
+	for(int i = 1; i <= n; i++)
+		cout << a[n - i] << " ";
 
 	return 0;
 }

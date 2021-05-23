@@ -1,19 +1,21 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
     int n, first = 24;;
     int a[10000] = {};
-    std::cin >> n;
+
+    cin >> n;
 
     for(int i = 0; i < n; i++)
-        std::cin >> a[i];
+        cin >> a[i];
 
     for(int i = 0; i < n; i++)
-        if (a[i] <= first)
+        if(a[i] <= first)
             first = a[i];
     
-    std::cout << first;
+    cout << first;
     
     return 0;
 }

@@ -3,8 +3,8 @@ using namespace std;
 
 int main()
 {
-    float a,b,c = 0;
-    int x,y,z = 0;
+    float a, b, c;
+    int x, y, z;
 
     cin >> a >> x >> b >> y >> c >> z;
 

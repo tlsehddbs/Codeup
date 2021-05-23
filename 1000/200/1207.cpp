@@ -6,16 +6,16 @@ int main()
     int a, b, c, d, count = 0;
     cin >> a >> b >> c >> d;
     
-    if (a == 1)
+    if(a == 1)
         count++;
-    if (b == 1)
+    if(b == 1)
         count++;
-    if (c == 1)
+    if(c == 1)
         count++;
-    if (d == 1)
+    if(d == 1)
         count++;
 
-    switch (count)
+    switch(count)
     {
     case 1:
         cout << "µµ";

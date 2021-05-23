@@ -1,12 +1,13 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
     char a, b;
-    std::cin >> a >> b;
+    cin >> a >> b;
 
     for(int i = int(a); i <= int(b); i++)
-        std::cout << char(i) << " ";
+        cout << char(i) << " ";
         
     return 0;
 }

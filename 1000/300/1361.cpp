@@ -1,17 +1,17 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    int n = 0;
+    int n;
+    cin >> n;
 
-    std::cin >> n;
-
-    for (int i = 1; i <= n; i++)
+    for(int i = 1; i <= n; i++)
     {
-        for (int k = 1; k < i; k++)
-            std::cout << " ";
+        for(int k = 1; k < i; k++)
+            cout << " ";
             
-        std::cout << "**\n";
+        cout << "**\n";
     }
     return 0;
 }

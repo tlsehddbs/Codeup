@@ -1,11 +1,12 @@
-#include <stdio.h>
+#include <iostream>
 
 int main()
 {
     int x, y;
-
-    scanf("C%dH%d", &x, &y);
-    printf("%d", (12 * x) + (1 * y));
+    char c, h;
+    std::cin >> c >> x >> h >> y;
     
+    std::cout << (12 * x) + y;
+
     return 0;
 }

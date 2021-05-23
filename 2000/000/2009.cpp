@@ -1,9 +1,10 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
     int k, n, result, count = 0;
-    std::cin >> k >> n;
+    cin >> k >> n;
     
     while(k >= n)
     {
@@ -12,7 +13,7 @@ int main()
         k += result;
         count += result;
     }
-    std::cout << count;
+    cout << count;
     
     return 0;
 }

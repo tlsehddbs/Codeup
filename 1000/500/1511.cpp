@@ -1,11 +1,12 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
     int a[101][101] = {};
-
     int n, count = 1, sum = 0;
-    std::cin >> n;
+    
+    cin >> n;
 
     for(int i = 1; i <= n; i++)
         for(int j = 1; j <= n; j++)
@@ -19,7 +20,7 @@ int main()
             if((i != 1 && i != n) && (j == 1 || j == n))
                 sum += a[i][j];
         }
-    std::cout << sum;
+    cout << sum;
 
     return 0;
 }

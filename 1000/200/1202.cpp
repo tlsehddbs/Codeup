@@ -1,20 +1,21 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
     int n = 0;
-    std::cin >> n;
+    cin >> n;
 
     if(n >= 90)
-        std::cout << "A";
+        cout << "A";
     else if(n >= 80 && n < 90)
-        std::cout << "B";
+        cout << "B";
     else if(n >= 70 && n < 80)
-        std::cout << "C";
+        cout << "C";
     else if(n >= 60 && n < 70)
-        std::cout << "D";
+        cout << "D";
     else 
-        std::cout << "F";
+        cout << "F";
         
     return 0;
 }

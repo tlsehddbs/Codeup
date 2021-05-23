@@ -1,16 +1,17 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
     int n, count = 0;
-    std::cin >> n;
+    cin >> n;
 
     while(n != 0)
     {
         n /= 10;
         count++;
     }
-    std::cout << count;
+    cout << count;
 
     return 0;
 }

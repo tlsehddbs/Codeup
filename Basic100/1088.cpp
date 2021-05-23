@@ -1,13 +1,14 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
 	int a;
-	std::cin >> a;
+	cin >> a;
 	
-	for (int i = 1; i <= a; i++)
-		if (i % 3 != 0)
-			std::cout << i << " ";
+	for(int i = 1; i <= a; i++)
+		if(i % 3 != 0)
+			cout << i << " ";
 
 	return 0;
 }

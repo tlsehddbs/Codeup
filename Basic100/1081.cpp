@@ -1,13 +1,14 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
 	int n, m;
-	std::cin >> n >> m;
+	cin >> n >> m;
 
-	for (int i = 1; i <= n; i++)
-		for (int j = 1; j <= m; j++)
-			std::cout << i << " " << j << "\n";
+	for(int i = 1; i <= n; i++)
+		for(int j = 1; j <= m; j++)
+			cout << i << " " << j << "\n";
 			
 	return 0;
 }

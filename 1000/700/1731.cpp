@@ -1,8 +1,9 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
-	std::cout << "special characters\n[\\n,\\\",\\\\] is very important.";
+	cout << "special characters\n[\\n,\\\",\\\\] is very important.";
 	
 	return 0;
 }

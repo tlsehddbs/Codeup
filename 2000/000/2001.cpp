@@ -9,6 +9,7 @@ int main()
 
     for(int i = 0; i < 3; i++)
         cin >> p[i];
+        
     for(int i = 0; i < 2; i++)
         cin >> j[i];
 
