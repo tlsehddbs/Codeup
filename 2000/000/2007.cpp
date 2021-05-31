@@ -14,6 +14,7 @@ int main()
     {
         if(a[i] < a[i + 1])
             u = 1;
+            
         if(a[i] > a[i + 1])
             d = 1;
     }
