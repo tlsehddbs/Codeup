@@ -1,2 +1,2 @@
-a=ord(input()) 
-print(chr(a+1))
+a = ord(input()) 
+print(chr(a + 1))

@@ -1,3 +1,3 @@
-a, b = input().split()
-n = float(a) / float(b)
+a, b = map(float, input().split())
+n = a / b
 print('%.3f'%n)

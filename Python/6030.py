@@ -1,2 +1,2 @@
-c=ord(input())
+c = ord(input())
 print(c)

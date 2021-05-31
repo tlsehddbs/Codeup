@@ -1,2 +1,2 @@
-f = input()
-print(round(float(f), 2))
+f = float(input())
+print(round(f, 2))

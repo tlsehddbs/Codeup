@@ -1,2 +1,2 @@
 a, n = input().split()
-print(a*int(n))
+print(a * int(n))

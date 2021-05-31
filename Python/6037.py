@@ -1,3 +1,3 @@
 n = input()
 s = input()
-print(int(n)*s)
+print(int(n) * s)

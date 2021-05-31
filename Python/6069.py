@@ -1,4 +1,5 @@
 c = input()
+
 if(c == 'A'):
     print("best!!!")
 elif(c == 'B'):

@@ -1,2 +1,2 @@
-c=int(input())
+c = int(input())
 print(chr(c))

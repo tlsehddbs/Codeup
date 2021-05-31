@@ -1,3 +1,3 @@
-a, b = input().split()
-c = int(a)**int(b)
+a, b = map(int, input().split())
+c = a ** b
 print(c)
