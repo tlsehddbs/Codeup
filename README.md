@@ -260,6 +260,7 @@ ___
 > * [나도 IQ 150](https://codeup.kr/problem.php?id=1508 "1508")
 > * [진격 후 결과](https://codeup.kr/problem.php?id=1509 "1509 / moonrabbit2")
 > * [테두리의 합](https://codeup.kr/problem.php?id=1511 "1511 / jin1sun")
+> * [인삼밭(택배 수령)](https://codeup.kr/problem.php?id=1521 "1521 / tmdgh1110")
 > * [지뢰 찾기 1](https://codeup.kr/problem.php?id=1524 "1524")
 <hr/>
 
@@ -345,6 +346,7 @@ ___
 > * [글자수 세기](https://codeup.kr/problem.php?id=1751 "1751 / jk1san") 
 > * [뒤집어 출력하기](https://codeup.kr/problem.php?id=1752 "1752") 
 > * [코드 네임](https://codeup.kr/problem.php?id=1753 "1753 / j960728") 
+> * [큰 수 비교](https://codeup.kr/problem.php?id=1754 "1754 / expoint") 
 > * [비밀 전화번호](https://codeup.kr/problem.php?id=1760 "1760 / hgss1004") 
 </details>
 
