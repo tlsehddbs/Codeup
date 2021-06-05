@@ -20,11 +20,9 @@ int main()
 
     cin >> n;
 
-    // 입력
     for(int i = 0; i < n; i++)    
         cin >> subject[i] >> level[i] >> grade[i];    
 
-    // 학점 계산
     for(int i = 0; i < n; i++)
     {
 	    for(int j = 0; j < 15; j++)
@@ -36,10 +34,8 @@ int main()
 
         temp += int(grade[i]);
     }
-    // 평균 계산
     average = result / temp;
 
-    // 평균에 의한 학점 평어
     if(average == 4.30)				                avglevel = "A+";
     else if(4.29 >= average && average >= 4.00) 	avglevel = "A0";
     else if(3.99 >= average && average >= 3.70) 	avglevel = "A-";
@@ -54,7 +50,6 @@ int main()
     else if(0.99 >= average && average >= 0.70)	    avglevel = "D-";
     else if(0.69 >= average && average >= 0.00)	    avglevel = "F";
     
-    // 미달 과목
     for(int i = 0; i < n; i++)
         for(int j = 6; j < 15; j++)
             if(level[i] == blevel[j] && level[i] != blevel[13])
@@ -69,7 +64,6 @@ int main()
     cout << fixed;
     cout.precision(2);
 
-    // 출력
     cout << "Average : " << average << " (" << avglevel << ")" << endl << endl;
     cout << "RETAKE NEEDED " << "(" << retake_count << ")" << endl;
 
