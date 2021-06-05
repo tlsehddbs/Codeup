@@ -358,12 +358,11 @@ ___
 <hr/>
 </details>
 
-<!--
 <details>
 <summary>900</summary>
 
+> * [3의 배수 판별하기](https://codeup.kr/problem.php?id=1990 "1990 / jswself") 
 </details>
--->
 
 </details>
 </br>
