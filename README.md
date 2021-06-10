@@ -400,6 +400,7 @@ ___
 > * [[기초-함수작성] 함수로 두 정수의 차이 값 리턴하기](https://codeup.kr/problem.php?id=1560 "1560 / 정보컴퓨터교사 연구회/카페 (기초100제 v1.0)") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/BasicFunction/1560.c "1560.c")
 > * [[기초-함수작성] 함수로 두 정수의 큰 값 리턴하기](https://codeup.kr/problem.php?id=1561 "1561 / 정보컴퓨터교사 연구회/카페 (기초100제 v1.0)") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/BasicFunction/1561.c "1561.c")
 > * [[기초-함수작성] 함수로 두 정수의 작은 값 리턴하기](https://codeup.kr/problem.php?id=1562 "1562 / 정보컴퓨터교사 연구회/카페 (기초100제 v1.0)") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/BasicFunction/1562.c "1562.c")
+> * [[기초-함수작성] 함수로 거듭제곱 리턴하기](https://codeup.kr/problem.php?id=1566 "1566 / 정보컴퓨터교사 연구회/카페 (기초100제 v1.0)") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/BasicFunction/1566.c "1566.c")
 <hr/>
 
 > ## (함수작성)
@@ -415,6 +416,7 @@ ___
 <summary>600</summary>
 
 > * [절대값 함수](https://codeup.kr/problem.php?id=1602 "1602 / 함수") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/600/1602.c "1602.c")
+> * [기상송 바꾸기](https://codeup.kr/problem.php?id=1620 "1620") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/600/1620.cpp "1620.cpp")
 > * [기상송 바꾸기](https://codeup.kr/problem.php?id=1630 "1630 / martinok1103") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/600/1630.cpp "1630.cpp")
 > * [파싱(parsing) 1](https://codeup.kr/problem.php?id=1660 "1660") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/600/1660.cpp "1660.cpp")
 > * [파싱(parsing) 2](https://codeup.kr/problem.php?id=1661 "1661") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/600/1661.cpp "1661.cpp")
