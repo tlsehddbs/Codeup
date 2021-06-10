@@ -50,114 +50,114 @@ ___
 <hr/>
 
 > ## 기초-데이터형
-> * [[기초-데이터형] 정수 1개 입력받아 그대로 출력하기2(설명)](https://codeup.kr/problem.php?id=1028 "1028 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1028.c "1028.c")
-> * [[기초-데이터형] 실수 1개 입력받아 그대로 출력하기2(설명)](https://codeup.kr/problem.php?id=1029 "1029 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1029.c "1029.c")
-> * [[기초-데이터형] 정수 1개 입력받아 그대로 출력하기3(설명)](https://codeup.kr/problem.php?id=1030 "1030 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1030.c "1030.c")
+> * [[기초-데이터형] 정수 1개 입력받아 그대로 출력하기2(설명)](https://codeup.kr/problem.php?id=1028 "1028 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1028.cpp "1028.cpp")
+> * [[기초-데이터형] 실수 1개 입력받아 그대로 출력하기2(설명)](https://codeup.kr/problem.php?id=1029 "1029 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1029.cpp "1029.cpp")
+> * [[기초-데이터형] 정수 1개 입력받아 그대로 출력하기3(설명)](https://codeup.kr/problem.php?id=1030 "1030 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1030.cpp "1030.cpp")
 <hr/>
 
 > ## 기초-출력변환
-> * [[기초-출력변환] 10진 정수 1개 입력받아 8진수로 출력하기(설명)](https://codeup.kr/problem.php?id=1031 "1031 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1031.c "1031.c")
-> * [[기초-출력변환] 10진 정수 입력받아 16진수로 출력하기1(설명)](https://codeup.kr/problem.php?id=1032 "1032 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1032.c "1032.c")
-> * [[기초-출력변환] 10진 정수 입력받아 16진수로 출력하기2(설명)](https://codeup.kr/problem.php?id=1033 "1033 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1033.c "1033.c")
-> * [[기초-출력변환] 8진 정수 1개 입력받아 10진수로 출력하기(설명)](https://codeup.kr/problem.php?id=1034 "1034 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1034.c "1034.c")
-> * [[기초-출력변환] 16진 정수 1개 입력받아 8진수로 출력하기(설명)](https://codeup.kr/problem.php?id=1035 "1035 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1035.c "1035.c")
-> * [[기초-출력변환] 영문자 1개 입력받아 10진수로 출력하기(설명)](https://codeup.kr/problem.php?id=1036 "1036 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1036.c "1036.c")
-> * [[기초-출력변환] 정수 입력받아 아스키 문자로 출력하기](https://codeup.kr/problem.php?id=1037 "1037 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1037.c "1037.c")
+> * [[기초-출력변환] 10진 정수 1개 입력받아 8진수로 출력하기(설명)](https://codeup.kr/problem.php?id=1031 "1031 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1031.cpp "1031.cpp")
+> * [[기초-출력변환] 10진 정수 입력받아 16진수로 출력하기1(설명)](https://codeup.kr/problem.php?id=1032 "1032 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1032.cpp "1032.cpp")
+> * [[기초-출력변환] 10진 정수 입력받아 16진수로 출력하기2(설명)](https://codeup.kr/problem.php?id=1033 "1033 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1033.cpp "1033.cpp")
+> * [[기초-출력변환] 8진 정수 1개 입력받아 10진수로 출력하기(설명)](https://codeup.kr/problem.php?id=1034 "1034 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1034.cpp "1034.cpp")
+> * [[기초-출력변환] 16진 정수 1개 입력받아 8진수로 출력하기(설명)](https://codeup.kr/problem.php?id=1035 "1035 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1035.cpp "1035.cpp")
+> * [[기초-출력변환] 영문자 1개 입력받아 10진수로 출력하기(설명)](https://codeup.kr/problem.php?id=1036 "1036 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1036.cpp "1036.cpp")
+> * [[기초-출력변환] 정수 입력받아 아스키 문자로 출력하기](https://codeup.kr/problem.php?id=1037 "1037 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1037.cpp "1037.cpp")
 <hr/>
 
 > ## 기초-산술연산
-> * [[기초-산술연산] 정수 2개 입력받아 합 출력하기1(설명)](https://codeup.kr/problem.php?id=1038 "1038 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1038.c "1038.c")
-> * [[기초-산술연산] 정수 2개 입력받아 합 출력하기2(설명)](https://codeup.kr/problem.php?id=1039 "1039 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1039.c "1039.c")
-> * [[기초-산술연산] 정수 1개 입력받아 부호 바꿔 출력하기(설명)](https://codeup.kr/problem.php?id=1040 "1040 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1040.c "1040.c")
-> * [[기초-산술연산] 문자 1개 입력받아 다음 문자 출력하기(설명)](https://codeup.kr/problem.php?id=1041 "1041 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1041.c "1041.c")
-> * [[기초-산술연산] 정수 2개 입력받아 나눈 몫 출력하기(설명)](https://codeup.kr/problem.php?id=1042 "1042 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1042.c "1042.c")
-> * [[기초-산술연산] 정수 2개 입력받아 나눈 나머지 출력하기(설명)](https://codeup.kr/problem.php?id=1043 "1043 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1043.c "1043.c")
-> * [[기초-산술연산] 정수 1개 입력받아 1 더해 출력하기(설명)](https://codeup.kr/problem.php?id=1044 "1044 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1044.c "1044.c")
-> * [[기초-산술연산] 정수 2개 입력받아 자동 계산하기](https://codeup.kr/problem.php?id=1045 "1045 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1045.c "1045.c")
-> * [[기초-산술연산] 정수 3개 입력받아 합과 평균 출력하기](https://codeup.kr/problem.php?id=1046 "1046 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1046.c "1046.c")
+> * [[기초-산술연산] 정수 2개 입력받아 합 출력하기1(설명)](https://codeup.kr/problem.php?id=1038 "1038 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1038.cpp "1038.cpp")
+> * [[기초-산술연산] 정수 2개 입력받아 합 출력하기2(설명)](https://codeup.kr/problem.php?id=1039 "1039 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1039.cpp "1039.cpp")
+> * [[기초-산술연산] 정수 1개 입력받아 부호 바꿔 출력하기(설명)](https://codeup.kr/problem.php?id=1040 "1040 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1040.cpp "1040.cpp")
+> * [[기초-산술연산] 문자 1개 입력받아 다음 문자 출력하기(설명)](https://codeup.kr/problem.php?id=1041 "1041 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1041.cpp "1041.cpp")
+> * [[기초-산술연산] 정수 2개 입력받아 나눈 몫 출력하기(설명)](https://codeup.kr/problem.php?id=1042 "1042 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1042.cpp "1042.cpp")
+> * [[기초-산술연산] 정수 2개 입력받아 나눈 나머지 출력하기(설명)](https://codeup.kr/problem.php?id=1043 "1043 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1043.cpp "1043.cpp")
+> * [[기초-산술연산] 정수 1개 입력받아 1 더해 출력하기(설명)](https://codeup.kr/problem.php?id=1044 "1044 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1044.cpp "1044.cpp")
+> * [[기초-산술연산] 정수 2개 입력받아 자동 계산하기](https://codeup.kr/problem.php?id=1045 "1045 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1045.cpp "1045.cpp")
+> * [[기초-산술연산] 정수 3개 입력받아 합과 평균 출력하기](https://codeup.kr/problem.php?id=1046 "1046 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1046.cpp "1046.cpp")
 <hr/>
 
 > ## 기초-비트시프트연산
-> * [[기초-비트시프트연산] 정수 1개 입력받아 2배 곱해 출력하기(설명)](https://codeup.kr/problem.php?id=1047 "1047 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1047.c "1047.c")
-> * [[기초-비트시프트연산] 한 번에 2의 거듭제곱 배로 출력하기(설명)](https://codeup.kr/problem.php?id=1048 "1048 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1048.c "1048.c")
+> * [[기초-비트시프트연산] 정수 1개 입력받아 2배 곱해 출력하기(설명)](https://codeup.kr/problem.php?id=1047 "1047 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1047.cpp "1047.cpp")
+> * [[기초-비트시프트연산] 한 번에 2의 거듭제곱 배로 출력하기(설명)](https://codeup.kr/problem.php?id=1048 "1048 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1048.cpp "1048.cpp")
 <hr/>
 
 > ## 기초-비교연산
-> * [[기초-비교연산] 두 정수 입력받아 비교하기1(설명)](https://codeup.kr/problem.php?id=1049 "1049 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1049.c "1049.c")
-> * [[기초-비교연산] 두 정수 입력받아 비교하기2(설명)](https://codeup.kr/problem.php?id=1050 "1050 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1050.c "1050.c")
-> * [[기초-비교연산] 두 정수 입력받아 비교하기3(설명)](https://codeup.kr/problem.php?id=1051 "1051 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1051.c "1051.c")
-> * [[기초-비교연산] 두 정수 입력받아 비교하기4(설명)](https://codeup.kr/problem.php?id=1052 "1052 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1052.c "1052.c")
+> * [[기초-비교연산] 두 정수 입력받아 비교하기1(설명)](https://codeup.kr/problem.php?id=1049 "1049 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1049.cpp "1049.cpp")
+> * [[기초-비교연산] 두 정수 입력받아 비교하기2(설명)](https://codeup.kr/problem.php?id=1050 "1050 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1050.cpp "1050.cpp")
+> * [[기초-비교연산] 두 정수 입력받아 비교하기3(설명)](https://codeup.kr/problem.php?id=1051 "1051 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1051.cpp "1051.cpp")
+> * [[기초-비교연산] 두 정수 입력받아 비교하기4(설명)](https://codeup.kr/problem.php?id=1052 "1052 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1052.cpp "1052.cpp")
 <hr/>
 
 > ## 기초-논리연산
-> * [[기초-논리연산] 참 거짓 바꾸기(설명)](https://codeup.kr/problem.php?id=1053 "1053 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1053.c "1053.c")
-> * [[기초-논리연산] 둘 다 참일 경우만 참 출력하기(설명)](https://codeup.kr/problem.php?id=1054 "1054 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1054.c "1054.c")
-> * [[기초-논리연산] 하나라도 참이면 참 출력하기(설명)](https://codeup.kr/problem.php?id=1055 "1055 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1055.c "1055.c")
-> * [[기초-논리연산] 참/거짓이 서로 다를 때에만 참 출력하기(설명)](https://codeup.kr/problem.php?id=1056 "1056 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1056.c "1056.c")
-> * [[기초-논리연산] 참/거짓이 서로 같을 때에만 참 출력하기](https://codeup.kr/problem.php?id=1057 "1057 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1057.c "1057.c")
-> * [[기초-논리연산] 둘 다 거짓일 경우만 참 출력하기](https://codeup.kr/problem.php?id=1058 "1058 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1058.c "1058.c")
+> * [[기초-논리연산] 참 거짓 바꾸기(설명)](https://codeup.kr/problem.php?id=1053 "1053 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1053.cpp "1053.cpp")
+> * [[기초-논리연산] 둘 다 참일 경우만 참 출력하기(설명)](https://codeup.kr/problem.php?id=1054 "1054 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1054.cpp "1054.cpp")
+> * [[기초-논리연산] 하나라도 참이면 참 출력하기(설명)](https://codeup.kr/problem.php?id=1055 "1055 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1055.cpp "1055.cpp")
+> * [[기초-논리연산] 참/거짓이 서로 다를 때에만 참 출력하기(설명)](https://codeup.kr/problem.php?id=1056 "1056 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1056.cpp "1056.cpp")
+> * [[기초-논리연산] 참/거짓이 서로 같을 때에만 참 출력하기](https://codeup.kr/problem.php?id=1057 "1057 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1057.cpp "1057.cpp")
+> * [[기초-논리연산] 둘 다 거짓일 경우만 참 출력하기](https://codeup.kr/problem.php?id=1058 "1058 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1058.cpp "1058.cpp")
 <hr/>
 
 > ## 기초-비트단위논리연산
-> * [[기초-비트단위논리연산] 비트단위로 NOT 하여 출력하기(설명)](https://codeup.kr/problem.php?id=1059 "1059 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1059.c "1059.c")
-> * [[기초-비트단위논리연산] 비트단위로 AND 하여 출력하기(설명)](https://codeup.kr/problem.php?id=1060 "1060 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1060.c "1060.c")
-> * [[기초-비트단위논리연산] 비트단위로 OR 하여 출력하기(설명)](https://codeup.kr/problem.php?id=1061 "1061 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1061.c "1061.c")
-> * [[기초-비트단위논리연산] 비트단위로 XOR 하여 출력하기(설명)](https://codeup.kr/problem.php?id=1062 "1062 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1062.c "1062.c")
+> * [[기초-비트단위논리연산] 비트단위로 NOT 하여 출력하기(설명)](https://codeup.kr/problem.php?id=1059 "1059 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1059.cpp "1059.cpp")
+> * [[기초-비트단위논리연산] 비트단위로 AND 하여 출력하기(설명)](https://codeup.kr/problem.php?id=1060 "1060 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1060.cpp "1060.cpp")
+> * [[기초-비트단위논리연산] 비트단위로 OR 하여 출력하기(설명)](https://codeup.kr/problem.php?id=1061 "1061 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1061.cpp "1061.cpp")
+> * [[기초-비트단위논리연산] 비트단위로 XOR 하여 출력하기(설명)](https://codeup.kr/problem.php?id=1062 "1062 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1062.cpp "1062.cpp")
 <hr/>
 
 > ## 기초-삼항연산
-> * [[기초-삼항연산] 두 정수 입력받아 큰 수 출력하기(설명)](https://codeup.kr/problem.php?id=1063 "1063 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1063.c "1063.c")
-> * [[기초-삼항연산] 정수 3개 입력받아 가장 작은 수 출력하기(설명)](https://codeup.kr/problem.php?id=1064 "1064 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1064.c "1064.c")
+> * [[기초-삼항연산] 두 정수 입력받아 큰 수 출력하기(설명)](https://codeup.kr/problem.php?id=1063 "1063 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1063.cpp "1063.cpp")
+> * [[기초-삼항연산] 정수 3개 입력받아 가장 작은 수 출력하기(설명)](https://codeup.kr/problem.php?id=1064 "1064 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1064.cpp "1064.cpp")
 <hr/>
 
 > ## 기초-조건/선택실행구조
-> * [[기초-조건/선택실행구조] 정수 3개 입력받아 짝수만 출력하기(설명)](https://codeup.kr/problem.php?id=1065 " 1065 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1065.c "1065.c")
-> * [[기초-조건/선택실행구조] 정수 3개 입력받아 짝/홀 출력하기(설명)](https://codeup.kr/problem.php?id=1066 "1066 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1066.c "1066.c")
-> * [[기초-조건/선택실행구조] 정수 1개 입력받아 분석하기(설명)](https://codeup.kr/problem.php?id=1067 "1067 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1067.c "1067.c")
-> * [[기초-조건/선택실행구조] 정수 1개 입력받아 평가 출력하기(설명)](https://codeup.kr/problem.php?id=1068 "1068 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1068.c "1068.c")
-> * [[기초-조건/선택실행구조] 평가 입력받아 다르게 출력하기(설명)](https://codeup.kr/problem.php?id=1069 "1069 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1069.c "1069.c")
-> * [[기초-조건/선택실행구조] 월 입력받아 계절 출력하기(설명)](https://codeup.kr/problem.php?id=1070 "1070 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1070.c "1070.c")
+> * [[기초-조건/선택실행구조] 정수 3개 입력받아 짝수만 출력하기(설명)](https://codeup.kr/problem.php?id=1065 " 1065 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1065.cpp "1065.cpp")
+> * [[기초-조건/선택실행구조] 정수 3개 입력받아 짝/홀 출력하기(설명)](https://codeup.kr/problem.php?id=1066 "1066 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1066.cpp "1066.cpp")
+> * [[기초-조건/선택실행구조] 정수 1개 입력받아 분석하기(설명)](https://codeup.kr/problem.php?id=1067 "1067 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1067.cpp "1067.cpp")
+> * [[기초-조건/선택실행구조] 정수 1개 입력받아 평가 출력하기(설명)](https://codeup.kr/problem.php?id=1068 "1068 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1068.cpp "1068.cpp")
+> * [[기초-조건/선택실행구조] 평가 입력받아 다르게 출력하기(설명)](https://codeup.kr/problem.php?id=1069 "1069 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1069.cpp "1069.cpp")
+> * [[기초-조건/선택실행구조] 월 입력받아 계절 출력하기(설명)](https://codeup.kr/problem.php?id=1070 "1070 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1070.cpp "1070.cpp")
 <hr/>
 
 > ## 기초-반복실행구조
-> * [[기초-반복실행구조] 0 입력될 때까지 무한 출력하기1(설명)](https://codeup.kr/problem.php?id=1071 "1071 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1071.c "1071.c")
-> * [[기초-반복실행구조] 정수 입력받아 계속 출력하기(설명)](https://codeup.kr/problem.php?id=1072 "1072 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1072.c "1072.c")
-> * [[기초-반복실행구조] 0 입력될 때까지 무한 출력하기2(설명)](https://codeup.kr/problem.php?id=1073 "1073 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1073.c "1072.c")
-> * [[기초-반복실행구조] 정수 1개 입력받아 카운트다운 출력하기1(설명)](https://codeup.kr/problem.php?id=1074 " 1074 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1074.c "1074.c")
-> * [[기초-반복실행구조] 정수 1개 입력받아 카운트다운 출력하기2(설명)](https://codeup.kr/problem.php?id=1075 " 1075 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1075.c "1075.c")
-> * [[기초-반복실행구조] 문자 1개 입력받아 알파벳 출력하기(설명)](https://codeup.kr/problem.php?id=1076 "1076 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1076.c "1076.c")
-> * [[기초-반복실행구조] 정수 1개 입력받아 그 수까지 출력하기(설명)](https://codeup.kr/problem.php?id=1077 "1077 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1077.c "1077.c")
+> * [[기초-반복실행구조] 0 입력될 때까지 무한 출력하기1(설명)](https://codeup.kr/problem.php?id=1071 "1071 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1071.cpp "1071.cpp")
+> * [[기초-반복실행구조] 정수 입력받아 계속 출력하기(설명)](https://codeup.kr/problem.php?id=1072 "1072 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1072.cpp "1072.cpp")
+> * [[기초-반복실행구조] 0 입력될 때까지 무한 출력하기2(설명)](https://codeup.kr/problem.php?id=1073 "1073 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1073.cpp "1072.cpp")
+> * [[기초-반복실행구조] 정수 1개 입력받아 카운트다운 출력하기1(설명)](https://codeup.kr/problem.php?id=1074 " 1074 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1074.cpp "1074.cpp")
+> * [[기초-반복실행구조] 정수 1개 입력받아 카운트다운 출력하기2(설명)](https://codeup.kr/problem.php?id=1075 " 1075 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1075.cpp "1075.cpp")
+> * [[기초-반복실행구조] 문자 1개 입력받아 알파벳 출력하기(설명)](https://codeup.kr/problem.php?id=1076 "1076 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1076.cpp "1076.cpp")
+> * [[기초-반복실행구조] 정수 1개 입력받아 그 수까지 출력하기(설명)](https://codeup.kr/problem.php?id=1077 "1077 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1077.cpp "1077.cpp")
 <hr/>
 
 > ## 기초-종합
-> * [[기초-종합] 짝수 합 구하기(설명)](https://codeup.kr/problem.php?id=1078 "1078 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1078.c "1078.c")
-> * [[기초-종합] 원하는 문자가 입력될 때까지 반복 출력하기](https://codeup.kr/problem.php?id=1079 "1079 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1079.c "1079.c")
-> * [[기초-종합] 언제까지 더해야 할까?](https://codeup.kr/problem.php?id=1080 "1080 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1080.c "1080.c")
-> * [[기초-종합] 주사위를 2개 던지면?(설명)](https://codeup.kr/problem.php?id=1081 "1081 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1081.c "1081.c")
-> * [[기초-종합] 16진수 구구단?](https://codeup.kr/problem.php?id=1082 "1082 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1082.c "1082.c")
-> * [[기초-종합] 3 6 9 게임의 왕이 되자!(설명)](https://codeup.kr/problem.php?id=1083 "1083 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1083.c "1083.c")
-> * [[기초-종합] 빛 섞어 색 만들기(설명)](https://codeup.kr/problem.php?id=1084 "1084 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1084.c "1084.c")
-> * [[기초-종합] 소리 파일 저장용량 계산하기(설명)](https://codeup.kr/problem.php?id=1085 "1085 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1085.c "1085.c")
-> * [[기초-종합] 그림 파일 저장용량 계산하기(설명)](https://codeup.kr/problem.php?id=1086 "1086 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1086.c "1086.c")
-> * [[기초-종합] 여기까지! 이제 그만~(설명)](https://codeup.kr/problem.php?id=1087 "1087 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1087.c "1087.c")
-> * [[기초-종합] 3의 배수는 통과?(설명)](https://codeup.kr/problem.php?id=1088 "1088 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1088.c "1088.c")
-> * [[기초-종합] 수 나열하기1](https://codeup.kr/problem.php?id=1089 "1089 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1089.c "1089.c")
-> * [[기초-종합] 수 나열하기2](https://codeup.kr/problem.php?id=1090 "1090 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1090.c "1090.c")
-> * [[기초-종합] 수 나열하기3](https://codeup.kr/problem.php?id=1091 "1091 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1091.c "1091.c")
-> * [[기초-종합] 함께 문제 푸는 날(설명)](https://codeup.kr/problem.php?id=1092 "1092 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1092.c "1092.c")
+> * [[기초-종합] 짝수 합 구하기(설명)](https://codeup.kr/problem.php?id=1078 "1078 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1078.cpp "1078.cpp")
+> * [[기초-종합] 원하는 문자가 입력될 때까지 반복 출력하기](https://codeup.kr/problem.php?id=1079 "1079 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1079.cpp "1079.cpp")
+> * [[기초-종합] 언제까지 더해야 할까?](https://codeup.kr/problem.php?id=1080 "1080 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1080.cpp "1080.cpp")
+> * [[기초-종합] 주사위를 2개 던지면?(설명)](https://codeup.kr/problem.php?id=1081 "1081 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1081.cpp "1081.cpp")
+> * [[기초-종합] 16진수 구구단?](https://codeup.kr/problem.php?id=1082 "1082 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1082.cpp "1082.cpp")
+> * [[기초-종합] 3 6 9 게임의 왕이 되자!(설명)](https://codeup.kr/problem.php?id=1083 "1083 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1083.cpp "1083.cpp")
+> * [[기초-종합] 빛 섞어 색 만들기(설명)](https://codeup.kr/problem.php?id=1084 "1084 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1084.cpp "1084.cpp")
+> * [[기초-종합] 소리 파일 저장용량 계산하기(설명)](https://codeup.kr/problem.php?id=1085 "1085 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1085.cpp "1085.cpp")
+> * [[기초-종합] 그림 파일 저장용량 계산하기(설명)](https://codeup.kr/problem.php?id=1086 "1086 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1086.cpp "1086.cpp")
+> * [[기초-종합] 여기까지! 이제 그만~(설명)](https://codeup.kr/problem.php?id=1087 "1087 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1087.cpp "1087.cpp")
+> * [[기초-종합] 3의 배수는 통과?(설명)](https://codeup.kr/problem.php?id=1088 "1088 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1088.cpp "1088.cpp")
+> * [[기초-종합] 수 나열하기1](https://codeup.kr/problem.php?id=1089 "1089 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1089.cpp "1089.cpp")
+> * [[기초-종합] 수 나열하기2](https://codeup.kr/problem.php?id=1090 "1090 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1090.cpp "1090.cpp")
+> * [[기초-종합] 수 나열하기3](https://codeup.kr/problem.php?id=1091 "1091 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1091.cpp "1091.cpp")
+> * [[기초-종합] 함께 문제 푸는 날(설명)](https://codeup.kr/problem.php?id=1092 "1092 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1092.cpp "1092.cpp")
 <hr/>
 
 > ## 기초-1차원배열
-> * [[기초-1차원배열] 이상한 출석 번호 부르기1(설명)](https://codeup.kr/problem.php?id=1093 "1093 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1093.c "1093.c")
-> * [[기초-1차원배열] 이상한 출석 번호 부르기2(설명)](https://codeup.kr/problem.php?id=1094 "1094 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1094.c "1094.c")
-> * [[기초-1차원배열] 이상한 출석 번호 부르기3(설명)](https://codeup.kr/problem.php?id=1095 "1095 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1095.c "1095.c")
+> * [[기초-1차원배열] 이상한 출석 번호 부르기1(설명)](https://codeup.kr/problem.php?id=1093 "1093 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1093.cpp "1093.cpp")
+> * [[기초-1차원배열] 이상한 출석 번호 부르기2(설명)](https://codeup.kr/problem.php?id=1094 "1094 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1094.cpp "1094.cpp")
+> * [[기초-1차원배열] 이상한 출석 번호 부르기3(설명)](https://codeup.kr/problem.php?id=1095 "1095 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1095.cpp "1095.cpp")
 <hr/>
 
 > ## 기초-2차원배열
-> * [[기초-2차원배열] 바둑판에 흰 돌 놓기(설명)](https://codeup.kr/problem.php?id=1096 "1096 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1096.c "1096.c")
-> * [[기초-2차원배열] 바둑알 십자 뒤집기(설명)](https://codeup.kr/problem.php?id=1097 "1097 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1097.c "1097.c")
-> * [[기초-2차원배열] 설탕과자 뽑기](https://codeup.kr/problem.php?id=1098 "1098 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1098.c "1098.c")
-> * [[기초-2차원배열] 성실한 개미](https://codeup.kr/problem.php?id=1099 "1099 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1099.c "1099.c")
+> * [[기초-2차원배열] 바둑판에 흰 돌 놓기(설명)](https://codeup.kr/problem.php?id=1096 "1096 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1096.cpp "1096.cpp")
+> * [[기초-2차원배열] 바둑알 십자 뒤집기(설명)](https://codeup.kr/problem.php?id=1097 "1097 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1097.cpp "1097.cpp")
+> * [[기초-2차원배열] 설탕과자 뽑기](https://codeup.kr/problem.php?id=1098 "1098 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1098.cpp "1098.cpp")
+> * [[기초-2차원배열] 성실한 개미](https://codeup.kr/problem.php?id=1099 "1099 / 기초 100제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/Basic100/1099.cpp "1099.cpp")
 </details>
 
 <details>
