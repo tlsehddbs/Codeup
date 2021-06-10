@@ -13,6 +13,7 @@ int main()
         count += n / money[i];
         n %= money[i];
     }
+    
     cout << count;
 
     return 0;
