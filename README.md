@@ -379,7 +379,7 @@ ___
 > * [[기초-함수작성] 함수로 가장 큰 값 위치 리턴하기](https://codeup.kr/problem.php?id=1535 "1535 / 정보컴퓨터교사 연구회/카페 (기초100제 v1.0)") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/BasicFunction/1535.c "1535.c")
 > * [[기초-함수작성] 함수로 가장 작은 값 리턴하기](https://codeup.kr/problem.php?id=1536 "1536 / 정보컴퓨터교사 연구회/카페 (기초100제 v1.0)") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/BasicFunction/1536.c "1536.c")
 > * [[기초-함수작성] 함수로 hello 또는 world 출력하기](https://codeup.kr/problem.php?id=1537 "1537 / 정보컴퓨터교사 연구회/카페 (기초100제 v1.0)") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/BasicFunction/1537.c "1537.c")
-> * [[기초-함수작성] 함수로 odd 또는 even 출력하기	](https://codeup.kr/problem.php?id=1538 "1538 / 정보컴퓨터교사 연구회/카페 (기초100제 v1.0)") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/BasicFunction/1538.c "1538.c")
+> * [[기초-함수작성] 함수로 odd 또는 even 출력하기](https://codeup.kr/problem.php?id=1538 "1538 / 정보컴퓨터교사 연구회/카페 (기초100제 v1.0)") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/BasicFunction/1538.c "1538.c")
 > * [[기초-함수작성] 함수로 false 또는 true 출력하기](https://codeup.kr/problem.php?id=1539 "1539 / 정보컴퓨터교사 연구회/카페 (기초100제 v1.0)") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/BasicFunction/1539.c "1539.c")
 > * [[기초-함수작성] 함수로 zero 또는 non zero 출력하기](https://codeup.kr/problem.php?id=1540 "1540 / 정보컴퓨터교사 연구회/카페 (기초100제 v1.0)") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/BasicFunction/1540.c "1540.c")
 > * [[기초-함수작성] 함수로 negative/zero/positive 출력하기](https://codeup.kr/problem.php?id=1541 "1541 / 정보컴퓨터교사 연구회/카페 (기초100제 v1.0)") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/BasicFunction/1541.c "1541.c")
