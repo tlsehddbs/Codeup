@@ -635,7 +635,13 @@ ___
 <summary>000</summary>
 
 > * [생년월일 출력](https://codeup.kr/problem.php?id=4011 "4011 / 2006 교원프로그래밍경진대회") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/4000/000/4011.cpp "4011.cpp")
-> * [진법 변환](https://codeup.kr/problem.php?id=4013 "4013 / 2006 교원프로그래밍경진대회") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/4000/000/4013.cpp "4011.cpp")
+> * [진법 변환](https://codeup.kr/problem.php?id=4013 "4013 / 2006 교원프로그래밍경진대회") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/4000/000/4013.cpp "4013.cpp")
+> * [홀수의 합 구하기](https://codeup.kr/problem.php?id=4021 "4021 / 2006 교원프로그래밍경진대회") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/4000/000/4021.cpp "4021.cpp")
+<!-- > * [올림픽 중계 방송](https://codeup.kr/problem.php?id=4025 "4025 / 2006 교원프로그래밍경진대회") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/4000/000/4025.cpp "4025.cpp") -->
+> * [중앙 값](https://codeup.kr/problem.php?id=4026 "4026 / 2006 교원프로그래밍경진대회") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/4000/000/4026.cpp "4026.cpp")
+> * [가장 큰 수](https://codeup.kr/problem.php?id=4031 "4031 / 2006 교원프로그래밍경진대회") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/4000/000/4031.cpp "4031.cpp")
+> * [폭염](https://codeup.kr/problem.php?id=4072 "4072 / 2006 교원프로그래밍경진대회") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/4000/000/4072.cpp "4072.cpp")
+> * [밀도 구하기](https://codeup.kr/problem.php?id=4076 "4076 / 2006 교원프로그래밍경진대회") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/4000/000/4076.cpp "4076.cpp")
 </details>
 
 <!--
