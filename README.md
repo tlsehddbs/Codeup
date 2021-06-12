@@ -283,6 +283,7 @@ ___
 > * [계산기 2](https://codeup.kr/problem.php?id=1285 "1285 / expoint") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/300/1285.cpp "1285.cpp")
 > * [최댓값, 최솟값](https://codeup.kr/problem.php?id=1286 "1286 / MSP 10월") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/300/1286.cpp "1286.cpp")
 > * [구구단을 *로 출력하기](https://codeup.kr/problem.php?id=1287 "1287 / MSP 10월") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/300/1287.cpp "1287.cpp")
+> * [가장 큰 운동장](https://codeup.kr/problem.php?id=1289 "1289") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/300/1289.cpp "1289.cpp")
 > * [대금 만들기](https://codeup.kr/problem.php?id=1290 "1290") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/300/1290.cpp "1290.cpp")
 > * [바이러스 백신](https://codeup.kr/problem.php?id=1291 "1291") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/300/1291.cpp "1291.cpp")
 > * [범인을 잡아라 1](https://codeup.kr/problem.php?id=1292 "1292") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/300/1292.cpp "1292.cpp")
@@ -304,8 +305,12 @@ ___
 > * [숫자 피라미드 2](https://codeup.kr/problem.php?id=1360 "1360 / newnnewer") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/300/1360.cpp "1360.cpp")
 > * [별 계단 만들기](https://codeup.kr/problem.php?id=1361 "1361") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/300/1361.cpp "1361.cpp")
 > * [숫자 피라미드 3](https://codeup.kr/problem.php?id=1362 "1362 / newnnewer") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/300/1362.cpp "1362.cpp")
+> * [사각형 출력하기 3](https://codeup.kr/problem.php?id=1365 "1365 / moonrabbit2") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/300/1365.cpp "1365.cpp")
+> * [사각형 출력하기 4](https://codeup.kr/problem.php?id=1366 "1366 / moonrabbit2") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/300/1366.cpp "1366.cpp")
 > * [평행사변형 출력하기 1](https://codeup.kr/problem.php?id=1367 "1367 / expoint") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/300/1367.cpp "1367.cpp")
 > * [평행사변형 출력하기 2](https://codeup.kr/problem.php?id=1368 "1368 / expoint") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/300/1368.cpp "1368.cpp")
+> * [빗금 친 사각형 출력하기](https://codeup.kr/problem.php?id=1369 "1369") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/300/1369.cpp "1369.cpp")
+> * [지그재그 출력하기](https://codeup.kr/problem.php?id=1370 "1370 / expoint") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/300/1370.cpp "1370.cpp")
 > * [수열의 합](https://codeup.kr/problem.php?id=1378 "1378 / salia") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/300/1378.cpp "1378.cpp")
 > * [두 주사위의 합](https://codeup.kr/problem.php?id=1380 "1380") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/300/1380.cpp "1380.cpp")
 > * [GuguClass](https://codeup.kr/problem.php?id=1382 "1380") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/300/1382.cpp "1382.cpp")
@@ -322,9 +327,12 @@ ___
 > * [암호 처리](https://codeup.kr/problem.php?id=1408 "1408") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/400/1408.cpp "1408.cpp")
 > * [기억력 테스트 1](https://codeup.kr/problem.php?id=1409 "1409") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/400/1409.cpp "1409.cpp")
 > * [올바른 괄호 1 (괄호 개수 세기)](https://codeup.kr/problem.php?id=1410 "1410 / SoulDomination") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/400/1410.cpp "1410.cpp")
+> * [빠진 카드](https://codeup.kr/problem.php?id=1411 "1411 / 2013 지역본선 연습문제") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/400/1411.cpp "1411.cpp")
 > * [알파벳 개수 출력하기](https://codeup.kr/problem.php?id=1412 "1412") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/400/1412.cpp "1412.cpp")
 > * [말하는 앵무새](https://codeup.kr/problem.php?id=1413 "1413") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/400/1413.cpp "1413.cpp")
 > * [C언어를 찾아라](https://codeup.kr/problem.php?id=1414 "1414") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/400/1414.cpp "1414.cpp")
+> * [가장 큰 수](https://codeup.kr/problem.php?id=1415 "1415") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/400/1415.cpp "1415.cpp")
+> * [범인을 잡아라 2](https://codeup.kr/problem.php?id=1417 "1417") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/400/1417.cpp "1417.cpp")
 > * [t를 찾아라](https://codeup.kr/problem.php?id=1418 "1418") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/400/1418.cpp "1418.cpp")
 > * [love 2](https://codeup.kr/problem.php?id=1419 "1419") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/400/1419.cpp "1419.cpp")
 > * [비교](https://codeup.kr/problem.php?id=1440 "1440 / expoint") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/400/1440.cpp "1440.cpp")
@@ -452,6 +460,7 @@ ___
 > * [뒤집어 출력하기](https://codeup.kr/problem.php?id=1752 "1752") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/700/1752.cpp "1752.cpp")
 > * [코드 네임](https://codeup.kr/problem.php?id=1753 "1753 / j960728") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/700/1753.cpp "1753.cpp")
 > * [큰 수 비교](https://codeup.kr/problem.php?id=1754 "1754 / expoint") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/700/1754.cpp "1754.cpp")
+> * [확장자 확인하기](https://codeup.kr/problem.php?id=1755 "1755 / martinok1103") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/700/1755.cpp "1755.cpp")
 > * [비밀 전화번호](https://codeup.kr/problem.php?id=1760 "1760 / hgss1004") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/700/1760.cpp "1760.cpp")
 </details>
 
@@ -525,6 +534,7 @@ ___
 <summary>600</summary>
 
 > * [약수의 합](https://codeup.kr/problem.php?id=2621 "2621 / koistudy.net") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/2000/600/2621.cpp "2621.cpp")
+> * [디지털 도어 락](https://codeup.kr/problem.php?id=2650 "2650") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/2000/600/2650.cpp "2650.cpp")
 </details>
 
 <!--
