@@ -721,8 +721,8 @@ ___
 <details>
 <summary>000</summary>
 
-> * [특별한 날](https://codeup.kr/problem.php?id=4626 "5068 / 2015 CCC Junior") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/5000/000/5068.cpp "5068.cpp")
-> * [행복과 슬픔](https://codeup.kr/problem.php?id=5068 "5069 / 2015 CCC Junior") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/5000/000/5069.cpp "5069.cpp")  
+> * [특별한 날](https://codeup.kr/problem.php?id=5068 "5068 / 2015 CCC Junior") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/5000/000/5068.cpp "5068.cpp")
+> * [행복과 슬픔](https://codeup.kr/problem.php?id=5069 "5069 / 2015 CCC Junior") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/5000/000/5069.cpp "5069.cpp")  
   
 </details>
 
