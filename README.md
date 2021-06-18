@@ -698,12 +698,16 @@ ___
 <summary>700</summary>
 
 </details>
+-->
 
 <details>
 <summary>800</summary>
 
+> * [과자](https://codeup.kr/problem.php?id=4801 "4801 / 2014 지역본선 초등") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/4000/800/4801.cpp "4801.cpp")
+
 </details>
 
+<!--
 <details>
 <summary>900</summary>
 
