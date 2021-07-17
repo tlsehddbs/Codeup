@@ -502,6 +502,7 @@ ___
 <summary>000</summary>
 
 > * [최소 대금](https://codeup.kr/problem.php?id=2001 "2001 / test") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/2000/000/2001.cpp "2001.cpp")
+> * [아이콘 확대](https://codeup.kr/problem.php?id=2003 "2003 / 2012 CCC (Junior) - CEMC Univ. of Waterloo") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/2000/000/2003.cpp "2003.cpp")
 > * [오름차순? 내림차순? 1](https://codeup.kr/problem.php?id=2007 "2007") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/2000/000/2001.cpp "2007.cpp")
 > * [오름차순? 내림차순? 2](https://codeup.kr/problem.php?id=2008 "2008") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/2000/000/2001.cpp "2008.cpp")
 > * [아메리카노](https://codeup.kr/problem.php?id=2009 "2009") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/2000/000/2009.cpp "2009.cpp")
@@ -549,12 +550,11 @@ ___
 
 </details>
 
-<!--
 <details>
 <summary>700</summary>
 
+> * [a+b, a-b, a*b](https://codeup.kr/problem.php?id=2761 "2761") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/2000/700/2761.cpp "2761.cpp")
 </details>
--->
 
 <details>
 <summary>800</summary>
@@ -580,12 +580,13 @@ ___
 <details>
 <summary>3000</summary>
 
-<!--
 <details>
 <summary>000</summary>
 
+> * [데이터 탐색](https://codeup.kr/problem.php?id=3001 "3001 / 알고리즘(선형탐색)") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/3000/000/3001.cpp "3001.cpp")
 </details>
 
+<!--
 <details>
 <summary>100</summary>
 
