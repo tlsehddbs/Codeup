@@ -285,6 +285,7 @@ ___
 > * [계산기 2](https://codeup.kr/problem.php?id=1285 "1285 / expoint") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/300/1285.cpp "1285.cpp")
 > * [최댓값, 최솟값](https://codeup.kr/problem.php?id=1286 "1286 / MSP 10월") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/300/1286.cpp "1286.cpp")
 > * [구구단을 *로 출력하기](https://codeup.kr/problem.php?id=1287 "1287 / MSP 10월") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/300/1287.cpp "1287.cpp")
+> * [nCr (Tiny)](https://codeup.kr/problem.php?id=1288 "1288") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/300/1288.cpp "1288.cpp")
 > * [가장 큰 운동장](https://codeup.kr/problem.php?id=1289 "1289") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/300/1289.cpp "1289.cpp")
 > * [대금 만들기](https://codeup.kr/problem.php?id=1290 "1290") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/300/1290.cpp "1290.cpp")
 > * [바이러스 백신](https://codeup.kr/problem.php?id=1291 "1291") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/300/1291.cpp "1291.cpp")
@@ -456,6 +457,7 @@ ___
 > * [기약분수](https://codeup.kr/problem.php?id=1715 "1715 / 2012교내프로그래밍대회") / [풀이1](https://github.com/tlsehddbs/Codeup/blob/main/1000/700/1715.cpp "1715.cpp") / [풀이2](https://github.com/tlsehddbs/Codeup/blob/main/1000/700/1715-1.cpp "1715-1.cpp")
 > * [10월 30일](https://codeup.kr/problem.php?id=1716 "1716 / 2012교내프로그래밍대회") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/700/1716.cpp "1716.cpp")
 > * [두 점 간의 거리](https://codeup.kr/problem.php?id=1721 "1721 / wildsam") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/700/1721.cpp "1721.cpp")
+> * [여러 점 간의 거리](https://codeup.kr/problem.php?id=1722 "1722 / wildsam") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/700/1722.cpp "1722.cpp")
 > * [특수 서식 문자 출력하기](https://codeup.kr/problem.php?id=1731 "1731") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/700/1731.cpp "1731.cpp")
 > * [나눗셈과 제곱](https://codeup.kr/problem.php?id=1732 "1732") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/700/1732.cpp "1732.cpp")
 > * [I.O.I](https://codeup.kr/problem.php?id=1733 "1733") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/700/1733.cpp "1733.cpp")
@@ -526,7 +528,7 @@ ___
 <details>
 <summary>300</summary>
 
-> * [교수님 B-라도 좋으니까 C만은...](https://codeup.kr/problem.php?id=2302 "2302 / martinok1103") / [풀이1](https://github.com/tlsehddbs/Codeup/blob/main/2000/300/2302.cpp "2302.cpp") / [풀이2](https://github.com/tlsehddbs/Codeup/blob/main/2000/300/2302-1.cpp "2302-1.cpp")
+> * [교수님 B-라도 좋으니까 C만은...](https://codeup.kr/problem.php?id=2302 "2302 / martinok1103") / [풀이1](https://github.com/tlsehddbs/Codeup/blob/main/2000/300/2302.cpp "2302.cpp") / [풀이2](https://github.com/tlsehddbs/Codeup/blob/main/2000/300/2302-1.cpp "2302-1.cpp") / [풀이3](https://github.com/tlsehddbs/Codeup/blob/main/2000/300/2302-2.cpp "2302-2.cpp")
 
 </details>
 
@@ -545,6 +547,7 @@ ___
 <details>
 <summary>600</summary>
 
+> * [성적표 출력하기](https://codeup.kr/problem.php?id=2602 "2602 / 2012진주시정보화경진대회") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/2000/600/2602.cpp "2602.cpp")
 > * [약수의 합](https://codeup.kr/problem.php?id=2621 "2621 / koistudy.net") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/2000/600/2621.cpp "2621.cpp")
 > * [디지털 도어 락](https://codeup.kr/problem.php?id=2650 "2650") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/2000/600/2650.cpp "2650.cpp")
 

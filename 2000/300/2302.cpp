@@ -90,7 +90,7 @@ int main()
         if(level[i] == "C+" || level[i] == "C0" || level[i] == "C-" || level[i] == "D+" || level[i] == "D0" || level[i] == "D-" || level[i] == "F" || level[i] == "Fail")
         {
             retake_count++;
-
+            
             retake[a] = subject[i];
             retakegrade[a] = level[i];
             a++;
@@ -103,7 +103,7 @@ int main()
     cout << "RETAKE NEEDED " << "(" << retake_count << ")" << endl;
 
     for(int i = 0; i < retake_count; i++)
-       cout << " " << retake[i] << " (" << retakegrade[i] << ")" << endl;
+        cout << " " << retake[i] << " (" << retakegrade[i] << ")" << endl;
 
     return 0;
 }
