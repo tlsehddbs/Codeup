@@ -364,6 +364,11 @@ ___
 > * [[기초-배열연습] 2차원 배열 지그재그 채우기 2-6](https://codeup.kr/problem.php?id=1473 "1473 / 정보컴퓨터교사 연구회/카페 (기초100제 v1.0)") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/BasicArr/1473.cpp "1473.cpp")
 > * [[기초-배열연습] 2차원 배열 지그재그 채우기 2-7](https://codeup.kr/problem.php?id=1474 "1474 / 정보컴퓨터교사 연구회/카페 (기초100제 v1.0)") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/BasicArr/1474.cpp "1474.cpp")
 > * [[기초-배열연습] 2차원 배열 지그재그 채우기 2-8](https://codeup.kr/problem.php?id=1475 "1475 / 정보컴퓨터교사 연구회/카페 (기초100제 v1.0)") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/BasicArr/1475.cpp "1475.cpp")
+> * [[기초-배열연습] 1차원 누적 합 배열 만들기 5-1](https://codeup.kr/problem.php?id=1492 "1492 / 정보컴퓨터교사 연구회/카페 (기초100제 v1.0)") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/BasicArr/1492.cpp "1492.cpp")
+> * [[기초-배열연습] 두 개씩 묶어 작은 값 골라 배열 만들기 5-5](https://codeup.kr/problem.php?id=1496 "1496 / 정보컴퓨터교사 연구회/카페 (기초100제 v1.0)") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/BasicArr/1496.cpp "1496.cpp")
+> * [[기초-배열연습] 두 개씩 묶어 큰 값 골라 배열 만들기 5-6](https://codeup.kr/problem.php?id=1497 "1497 / 정보컴퓨터교사 연구회/카페 (기초100제 v1.0)") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/BasicArr/1497.cpp "1497.cpp")
+> * [[기초-배열연습] 여러 개씩 묶어 작은 값 골라 배열 만들기 5-7](https://codeup.kr/problem.php?id=1498 "1498 / 정보컴퓨터교사 연구회/카페 (기초100제 v1.0)") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/BasicArr/1498.cpp "1498.cpp")
+> * [[기초-배열연습] 여러 개씩 묶어 큰 값 골라 배열 만들기 5-8](https://codeup.kr/problem.php?id=1499 "1499 / 정보컴퓨터교사 연구회/카페 (기초100제 v1.0)") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/BasicArr/1499.cpp "1499.cpp")
 <hr/>
 
 </details>
