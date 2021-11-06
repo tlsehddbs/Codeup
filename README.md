@@ -292,6 +292,7 @@ ___
 > * [범인을 잡아라 1](https://codeup.kr/problem.php?id=1292 "1292") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/200/1292.cpp "1292.cpp")
 > * [1등과 꼴등](https://codeup.kr/problem.php?id=1293 "1293") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/200/1293.cpp "1293.cpp")
 > * [시저의 암호 2](https://codeup.kr/problem.php?id=1294 "1294") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/200/1294.cpp "1294.cpp")
+> * [알파벳 대소문자 변환](https://codeup.kr/problem.php?id=1295 "1295 / MSP 10월") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/200/1295.cpp "1295.cpp")
 
 </details>
 
@@ -341,6 +342,7 @@ ___
 > * [범인을 잡아라 2](https://codeup.kr/problem.php?id=1417 "1417") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/400/1417.cpp "1417.cpp")
 > * [t를 찾아라](https://codeup.kr/problem.php?id=1418 "1418") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/400/1418.cpp "1418.cpp")
 > * [love 2](https://codeup.kr/problem.php?id=1419 "1419") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/400/1419.cpp "1419.cpp")
+> * [3등 찾기](https://codeup.kr/problem.php?id=1420 "1420 / salia") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/400/1420.cpp "1420.cpp")
 > * [비교](https://codeup.kr/problem.php?id=1440 "1440 / expoint") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/400/1440.cpp "1440.cpp")
 > * [버블 정렬](https://codeup.kr/problem.php?id=1441 "1441") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/400/1441.cpp "1441.cpp")
 > * [정렬된 두 배열 합치기](https://codeup.kr/problem.php?id=1445 "1445 / expoint") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/400/1445.cpp "1445.cpp")
@@ -439,8 +441,12 @@ ___
 <summary>600</summary>
 
 > * [절대값 함수](https://codeup.kr/problem.php?id=1602 "1602 / 함수") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/600/1602.c "1602.c")
-> * [기상송 바꾸기](https://codeup.kr/problem.php?id=1620 "1620") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/600/1620.cpp "1620.cpp")
+> * [서브 스트링](https://codeup.kr/problem.php?id=1610 "1610") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/600/1610.cpp "1610.cpp")
+> * [줄 세우기](https://codeup.kr/problem.php?id=1618 "1618") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/600/1618.cpp "1618.cpp")
+> * [자릿수의 합](https://codeup.kr/problem.php?id=1620 "1620") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/600/1620.cpp "1620.cpp")
 > * [기상송 바꾸기](https://codeup.kr/problem.php?id=1630 "1630 / martinok1103") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/600/1630.cpp "1630.cpp")
+> * [문자열 정렬하기](https://codeup.kr/problem.php?id=1635 "1635") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/600/1635.cpp "1635.cpp")
+> * [악성 프로그램 삭제하기](https://codeup.kr/problem.php?id=1640 "1640 / hgss1004") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/600/1640.cpp "1640.cpp")
 > * [파싱(parsing) 1](https://codeup.kr/problem.php?id=1660 "1660") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/600/1660.cpp "1660.cpp")
 > * [파싱(parsing) 2](https://codeup.kr/problem.php?id=1661 "1661") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/600/1661.cpp "1661.cpp")
 > * [가위바위보 게임](https://codeup.kr/problem.php?id=1671 "1671 / 2012교내프로그래밍대회") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/1000/600/1671.cpp "1671.cpp")
@@ -568,6 +574,7 @@ ___
 
 > * [순환 문자열](https://codeup.kr/problem.php?id=2721 "2721") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/2000/700/2721.cpp "2721.cpp")
 > * [a+b, a-b, a*b](https://codeup.kr/problem.php?id=2761 "2761") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/2000/700/2761.cpp "2761.cpp")
+> * [약어 생성](https://codeup.kr/problem.php?id=2762 "2762") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/2000/700/2762.cpp "2762.cpp")
 </details>
 
 <details>
@@ -598,6 +605,7 @@ ___
 <summary>000</summary>
 
 > * [데이터 탐색](https://codeup.kr/problem.php?id=3001 "3001 / 알고리즘(선형탐색)") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/3000/000/3001.cpp "3001.cpp")
+> * [성적표 출력](https://codeup.kr/problem.php?id=3015 "3015 / wildsam") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/3000/000/3015.cpp "3015.cpp")
 </details>
 
 <!--
@@ -742,7 +750,8 @@ ___
 
 > * [특별한 날](https://codeup.kr/problem.php?id=5068 "5068 / 2015 CCC Junior") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/5000/000/5068.cpp "5068.cpp")
 > * [행복과 슬픔](https://codeup.kr/problem.php?id=5069 "5069 / 2015 CCC Junior") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/5000/000/5069.cpp "5069.cpp")  
-  
+> * [주사위 두개](https://codeup.kr/problem.php?id=5080 "5080 / 2014 CCC Junior") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/5000/000/5080.cpp "5080.cpp")
+
 </details>
 
 <!--
