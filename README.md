@@ -750,6 +750,8 @@ ___
 
 > * [특별한 날](https://codeup.kr/problem.php?id=5068 "5068 / 2015 CCC Junior") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/5000/000/5068.cpp "5068.cpp")
 > * [행복과 슬픔](https://codeup.kr/problem.php?id=5069 "5069 / 2015 CCC Junior") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/5000/000/5069.cpp "5069.cpp")  
+> * [삼각형의 형태](https://codeup.kr/problem.php?id=5078 "5078 / 2014 CCC Junior") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/5000/000/5078.cpp "5078.cpp")
+> * [투표 수](https://codeup.kr/problem.php?id=5079 "5079 / 2014 CCC Junior") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/5000/000/5079.cpp "5079.cpp")
 > * [주사위 두개](https://codeup.kr/problem.php?id=5080 "5080 / 2014 CCC Junior") / [풀이](https://github.com/tlsehddbs/Codeup/blob/main/5000/000/5080.cpp "5080.cpp")
 
 </details>
