@@ -1,46 +1,44 @@
 #include <iostream>
-#include <cstring>
+#include <vector>
 using namespace std;
 
 int main()
 {
-    int n, count = 0;
-    char c[50] = {};
+    int n, count = -1;
+    string a;
+    vector<string> program;
+    vector<string> badprogram;
 
     cin >> n;
-
     for(int i = 0; i <= n; i++)
     {
-        cin.getline(c, 50);
+        getline(cin, a);
+        program.push_back(a);
 
-        if(strlen(c) <= 3)
+        if(a.size() <= 3)
         {
-            cout << c << endl;
+            badprogram.push_back(a);
             count++;
         }
-
-        for(int j = 0; j < strlen(c); j++)
+        else
         {
-            if(c[j] == 't' && c[j + 1] == 'a' && c[j + 2] == 'p')
-            {
-                cout << c << endl;
-                count++;
-                break;
-            }
-            else if(c[j] == 'x' && c[j + 1] == 'o' && c[j + 2] == 'c' && c[j + 3] == 'u' && c[j + 4] == 'r' && c[j + 5] == 'e')
-            {
-                cout << c << endl;
-                count++;
-                break;
-            }
+            for(int j = 0; j < a.size(); j++)
+                if((a[j] == 't' && a[j + 1] == 'a' && a[j + 2] == 'p') 
+                || (a[j] == 'x' && a[j + 1] == 'o' && a[j + 2] == 'c' && a[j + 3] == 'u' && a[j + 4] == 'r' && a[j + 5] == 'e'))
+                {
+                    badprogram.push_back(a);
+                    count++;
+                    break;
+                }
         }
     }
 
-    if(count <= 3)
-        cout << "safe";
-    else if(count <= 6)
-        cout << "warning";
-    else
-        cout << "danger";
+    for(int i = 1; i < badprogram.size(); i++)
+        cout << badprogram[i] << endl;
+
+    if(count <= 3)      cout << "safe";
+    else if(count <= 6) cout << "warning";
+    else                cout << "danger";
+
     return 0;
 }
